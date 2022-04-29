@@ -1,0 +1,1002 @@
+[
+  {
+    "method": "001 public speeches",
+    "method_id": 1,
+    "genres": "methods of nonviolent protest and persuasion|formal statements"
+  },
+  {
+    "method": "002 letters of opposition or support",
+    "method_id": 2,
+    "genres": "methods of nonviolent protest and persuasion|formal statements"
+  },
+  {
+    "method": "003 declarations by organizations and institutions",
+    "method_id": 3,
+    "genres": "methods of nonviolent protest and persuasion|formal statements"
+  },
+  {
+    "method": "004 signed public statements",
+    "method_id": 4,
+    "genres": "methods of nonviolent protest and persuasion|formal statements"
+  },
+  {
+    "method": "005 declarations of indictment and intention",
+    "method_id": 5,
+    "genres": "methods of nonviolent protest and persuasion|formal statements"
+  },
+  {
+    "method": "006 group or mass petitions",
+    "method_id": 6,
+    "genres": "methods of nonviolent protest and persuasion|formal statements"
+  },
+  {
+    "method": "007 slogans caricatures and symbols",
+    "method_id": 7,
+    "genres": "methods of nonviolent protest and persuasion|communications with a wider audience"
+  },
+  {
+    "method": "008 banners posters and displayed communications",
+    "method_id": 8,
+    "genres": "methods of nonviolent protest and persuasion|communications with a wider audience"
+  },
+  {
+    "method": "009 leaflets pamphlets and books",
+    "method_id": 9,
+    "genres": "methods of nonviolent protest and persuasion|communications with a wider audience"
+  },
+  {
+    "method": "010 newspapers and journals",
+    "method_id": 10,
+    "genres": "methods of nonviolent protest and persuasion|communications with a wider audience"
+  },
+  {
+    "method": "011 records radio and television",
+    "method_id": 11,
+    "genres": "methods of nonviolent protest and persuasion|communications with a wider audience"
+  },
+  {
+    "method": "012 skywriting and earthwriting",
+    "method_id": 12,
+    "genres": "methods of nonviolent protest and persuasion|communications with a wider audience"
+  },
+  {
+    "method": "013 deputations",
+    "method_id": 13,
+    "genres": "methods of nonviolent protest and persuasion|group representations"
+  },
+  {
+    "method": "014 mock awards",
+    "method_id": 14,
+    "genres": "methods of nonviolent protest and persuasion|group representations"
+  },
+  {
+    "method": "015 group lobbying",
+    "method_id": 15,
+    "genres": "methods of nonviolent protest and persuasion|group representations"
+  },
+  {
+    "method": "016 picketing",
+    "method_id": 16,
+    "genres": "methods of nonviolent protest and persuasion|group representations"
+  },
+  {
+    "method": "017 mock elections",
+    "method_id": 17,
+    "genres": "methods of nonviolent protest and persuasion|group representations"
+  },
+  {
+    "method": "018 displays of flags and symbolic colors",
+    "method_id": 18,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "019 wearing of symbols",
+    "method_id": 19,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "020 prayer and worship",
+    "method_id": 20,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "021 delivering symbolic objects",
+    "method_id": 21,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "022 protest disrobings",
+    "method_id": 22,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "023 destruction of own property",
+    "method_id": 23,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "024 symbolic lights",
+    "method_id": 24,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "025 displays of portraits",
+    "method_id": 25,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "026 paint as protest",
+    "method_id": 26,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "027 new signs and names",
+    "method_id": 27,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "028 symbolic sounds",
+    "method_id": 28,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "029 symbolic reclamations",
+    "method_id": 29,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "030 rude gestures",
+    "method_id": 30,
+    "genres": "methods of nonviolent protest and persuasion|symbolic public acts"
+  },
+  {
+    "method": "031 haunting officials",
+    "method_id": 31,
+    "genres": "methods of nonviolent protest and persuasion|pressures on individuals"
+  },
+  {
+    "method": "032 taunting officials",
+    "method_id": 32,
+    "genres": "methods of nonviolent protest and persuasion|pressures on individuals"
+  },
+  {
+    "method": "033 fraternization",
+    "method_id": 33,
+    "genres": "methods of nonviolent protest and persuasion|pressures on individuals"
+  },
+  {
+    "method": "034 vigils",
+    "method_id": 34,
+    "genres": "methods of nonviolent protest and persuasion|pressures on individuals"
+  },
+  {
+    "method": "035 humorous skits and pranks",
+    "method_id": 35,
+    "genres": "methods of nonviolent protest and persuasion|drama and music"
+  },
+  {
+    "method": "036 performances of plays and music",
+    "method_id": 36,
+    "genres": "methods of nonviolent protest and persuasion|drama and music"
+  },
+  {
+    "method": "037 singing",
+    "method_id": 37,
+    "genres": "methods of nonviolent protest and persuasion|drama and music"
+  },
+  {
+    "method": "038 marches",
+    "method_id": 38,
+    "genres": "methods of nonviolent protest and persuasion|processions"
+  },
+  {
+    "method": "039 parades",
+    "method_id": 39,
+    "genres": "methods of nonviolent protest and persuasion|processions"
+  },
+  {
+    "method": "040 religious processions",
+    "method_id": 40,
+    "genres": "methods of nonviolent protest and persuasion|processions"
+  },
+  {
+    "method": "041 pilgrimages",
+    "method_id": 41,
+    "genres": "methods of nonviolent protest and persuasion|processions"
+  },
+  {
+    "method": "042 motorcades",
+    "method_id": 42,
+    "genres": "methods of nonviolent protest and persuasion|processions"
+  },
+  {
+    "method": "043 political mourning",
+    "method_id": 43,
+    "genres": "methods of nonviolent protest and persuasion|honoring the dead"
+  },
+  {
+    "method": "044 mock funerals",
+    "method_id": 44,
+    "genres": "methods of nonviolent protest and persuasion|honoring the dead"
+  },
+  {
+    "method": "045 demonstrative funerals",
+    "method_id": 45,
+    "genres": "methods of nonviolent protest and persuasion|honoring the dead"
+  },
+  {
+    "method": "046 homage at burial places",
+    "method_id": 46,
+    "genres": "methods of nonviolent protest and persuasion|honoring the dead"
+  },
+  {
+    "method": "047 assemblies of protest or support",
+    "method_id": 47,
+    "genres": "methods of nonviolent protest and persuasion|public assemblies"
+  },
+  {
+    "method": "048 protest meetings",
+    "method_id": 48,
+    "genres": "methods of nonviolent protest and persuasion|public assemblies"
+  },
+  {
+    "method": "049 camouflaged meetings of protest",
+    "method_id": 49,
+    "genres": "methods of nonviolent protest and persuasion|public assemblies"
+  },
+  {
+    "method": "050 teach ins",
+    "method_id": 50,
+    "genres": "methods of nonviolent protest and persuasion|public assemblies"
+  },
+  {
+    "method": "051 walk outs",
+    "method_id": 51,
+    "genres": "methods of nonviolent protest and persuasion|withdrawal and renunciation"
+  },
+  {
+    "method": "052 silence",
+    "method_id": 52,
+    "genres": "methods of nonviolent protest and persuasion|withdrawal and renunciation"
+  },
+  {
+    "method": "053 renouncing honours",
+    "method_id": 53,
+    "genres": "methods of nonviolent protest and persuasion|withdrawal and renunciation"
+  },
+  {
+    "method": "054 turning ones back",
+    "method_id": 54,
+    "genres": "methods of nonviolent protest and persuasion|withdrawal and renunciation"
+  },
+  {
+    "method": "055 social boycott",
+    "method_id": 55,
+    "genres": "methods of noncooperation|social noncooperation|ostracism of persons"
+  },
+  {
+    "method": "056 selective social boycott",
+    "method_id": 56,
+    "genres": "methods of noncooperation|social noncooperation|ostracism of persons"
+  },
+  {
+    "method": "057 lysistratic nonaction",
+    "method_id": 57,
+    "genres": "methods of noncooperation|social noncooperation|ostracism of persons"
+  },
+  {
+    "method": "058 excommunication",
+    "method_id": 58,
+    "genres": "methods of noncooperation|social noncooperation|ostracism of persons"
+  },
+  {
+    "method": "059 interdict",
+    "method_id": 59,
+    "genres": "methods of noncooperation|social noncooperation|ostracism of persons"
+  },
+  {
+    "method": "060 suspension of social and sports activities",
+    "method_id": 60,
+    "genres": "methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions"
+  },
+  {
+    "method": "061 boycott of social affairs",
+    "method_id": 61,
+    "genres": "methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions"
+  },
+  {
+    "method": "062 student strike",
+    "method_id": 62,
+    "genres": "methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions"
+  },
+  {
+    "method": "063 social disobedience",
+    "method_id": 63,
+    "genres": "methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions"
+  },
+  {
+    "method": "064 withdrawal from social institutions",
+    "method_id": 64,
+    "genres": "methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions"
+  },
+  {
+    "method": "065 stay at home",
+    "method_id": 65,
+    "genres": "methods of noncooperation|social noncooperation|withdrawal from the social system"
+  },
+  {
+    "method": "066 total personal noncooperation",
+    "method_id": 66,
+    "genres": "methods of noncooperation|social noncooperation|withdrawal from the social system"
+  },
+  {
+    "method": "067 flight of workers",
+    "method_id": 67,
+    "genres": "methods of noncooperation|social noncooperation|withdrawal from the social system"
+  },
+  {
+    "method": "068 sanctuary",
+    "method_id": 68,
+    "genres": "methods of noncooperation|social noncooperation|withdrawal from the social system"
+  },
+  {
+    "method": "069 collective disappearance",
+    "method_id": 69,
+    "genres": "methods of noncooperation|social noncooperation|withdrawal from the social system"
+  },
+  {
+    "method": "070 protest emigration hijrat",
+    "method_id": 70,
+    "genres": "methods of noncooperation|social noncooperation|withdrawal from the social system"
+  },
+  {
+    "method": "071 consumers boycott",
+    "method_id": 71,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by consumers"
+  },
+  {
+    "method": "072 nonconsumption of boycotted goods",
+    "method_id": 72,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by consumers"
+  },
+  {
+    "method": "073 policy of austerity",
+    "method_id": 73,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by consumers"
+  },
+  {
+    "method": "074 rent withholding",
+    "method_id": 74,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by consumers"
+  },
+  {
+    "method": "075 refusal to rent",
+    "method_id": 75,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by consumers"
+  },
+  {
+    "method": "076 national consumers boycott",
+    "method_id": 76,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by consumers"
+  },
+  {
+    "method": "077 international consumers boycott",
+    "method_id": 77,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by consumers"
+  },
+  {
+    "method": "078 workers boycott",
+    "method_id": 78,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by workers and producers"
+  },
+  {
+    "method": "079 producers boycott",
+    "method_id": 79,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by workers and producers"
+  },
+  {
+    "method": "080 suppliers and handlers boycott",
+    "method_id": 80,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by middlemen"
+  },
+  {
+    "method": "081 traders boycott",
+    "method_id": 81,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by owners and management"
+  },
+  {
+    "method": "082 refusal to let or sell property",
+    "method_id": 82,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by owners and management"
+  },
+  {
+    "method": "083 lockout",
+    "method_id": 83,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by owners and management"
+  },
+  {
+    "method": "084 refusal of industrial assistance",
+    "method_id": 84,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by owners and management"
+  },
+  {
+    "method": "085 merchants general strike",
+    "method_id": 85,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by owners and management"
+  },
+  {
+    "method": "086 withdrawal of bank deposits",
+    "method_id": 86,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources"
+  },
+  {
+    "method": "087 refusal to pay fees dues and assessments",
+    "method_id": 87,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources"
+  },
+  {
+    "method": "088 refusal to pay debts or interest",
+    "method_id": 88,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources"
+  },
+  {
+    "method": "089 severance of funds and credit",
+    "method_id": 89,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources"
+  },
+  {
+    "method": "090 revenue refusal",
+    "method_id": 90,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources"
+  },
+  {
+    "method": "091 refusal of a governments money",
+    "method_id": 91,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources"
+  },
+  {
+    "method": "092 domestic embargo",
+    "method_id": 92,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by governments"
+  },
+  {
+    "method": "093 blacklisting of traders",
+    "method_id": 93,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by governments"
+  },
+  {
+    "method": "094 international sellers embargo",
+    "method_id": 94,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by governments"
+  },
+  {
+    "method": "095 international buyers embargo",
+    "method_id": 95,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by governments"
+  },
+  {
+    "method": "096 international trade embargo",
+    "method_id": 96,
+    "genres": "methods of noncooperation|economic noncooperation boycotts|action by governments"
+  },
+  {
+    "method": "097 protest strike",
+    "method_id": 97,
+    "genres": "methods of noncooperation|economic noncooperation strikes|symbolic strikes"
+  },
+  {
+    "method": "098 quickie walkout lightning strike",
+    "method_id": 98,
+    "genres": "methods of noncooperation|economic noncooperation strikes|symbolic strikes"
+  },
+  {
+    "method": "099 peasant strike",
+    "method_id": 99,
+    "genres": "methods of noncooperation|economic noncooperation strikes|agricultural strikes"
+  },
+  {
+    "method": "100 farm workers strike",
+    "method_id": 100,
+    "genres": "methods of noncooperation|economic noncooperation strikes|agricultural strikes"
+  },
+  {
+    "method": "101 refusal of impressed labor",
+    "method_id": 101,
+    "genres": "methods of noncooperation|economic noncooperation strikes|strikes by special groups"
+  },
+  {
+    "method": "102 prisoners strike",
+    "method_id": 102,
+    "genres": "methods of noncooperation|economic noncooperation strikes|strikes by special groups"
+  },
+  {
+    "method": "103 craft strike",
+    "method_id": 103,
+    "genres": "methods of noncooperation|economic noncooperation strikes|strikes by special groups"
+  },
+  {
+    "method": "104 professional strike",
+    "method_id": 104,
+    "genres": "methods of noncooperation|economic noncooperation strikes|strikes by special groups"
+  },
+  {
+    "method": "105 establishment strike",
+    "method_id": 105,
+    "genres": "methods of noncooperation|economic noncooperation strikes|ordinary industrial strikes"
+  },
+  {
+    "method": "106 industry strike",
+    "method_id": 106,
+    "genres": "methods of noncooperation|economic noncooperation strikes|ordinary industrial strikes"
+  },
+  {
+    "method": "107 sympathy strike",
+    "method_id": 107,
+    "genres": "methods of noncooperation|economic noncooperation strikes|ordinary industrial strikes"
+  },
+  {
+    "method": "108 detailed strike",
+    "method_id": 108,
+    "genres": "methods of noncooperation|economic noncooperation strikes|restricted strikes"
+  },
+  {
+    "method": "109 bumper strike",
+    "method_id": 109,
+    "genres": "methods of noncooperation|economic noncooperation strikes|restricted strikes"
+  },
+  {
+    "method": "110 slowdown strike",
+    "method_id": 110,
+    "genres": "methods of noncooperation|economic noncooperation strikes|restricted strikes"
+  },
+  {
+    "method": "111 working to rule strike",
+    "method_id": 111,
+    "genres": "methods of noncooperation|economic noncooperation strikes|restricted strikes"
+  },
+  {
+    "method": "112 reporting sick sick in",
+    "method_id": 112,
+    "genres": "methods of noncooperation|economic noncooperation strikes|restricted strikes"
+  },
+  {
+    "method": "113 strike by resignation",
+    "method_id": 113,
+    "genres": "methods of noncooperation|economic noncooperation strikes|restricted strikes"
+  },
+  {
+    "method": "114 limited strike",
+    "method_id": 114,
+    "genres": "methods of noncooperation|economic noncooperation strikes|restricted strikes"
+  },
+  {
+    "method": "115 selective strike",
+    "method_id": 115,
+    "genres": "methods of noncooperation|economic noncooperation strikes|restricted strikes"
+  },
+  {
+    "method": "116 generalised strike",
+    "method_id": 116,
+    "genres": "methods of noncooperation|economic noncooperation strikes|multi industry strikes"
+  },
+  {
+    "method": "117 general strike",
+    "method_id": 117,
+    "genres": "methods of noncooperation|economic noncooperation strikes|multi industry strikes"
+  },
+  {
+    "method": "118 hartal",
+    "method_id": 118,
+    "genres": "methods of noncooperation|economic noncooperation strikes|combination of strikes and economic closures"
+  },
+  {
+    "method": "119 economic shutdown",
+    "method_id": 119,
+    "genres": "methods of noncooperation|economic noncooperation strikes|combination of strikes and economic closures"
+  },
+  {
+    "method": "120 withholding or withdrawal of allegiance",
+    "method_id": 120,
+    "genres": "methods of noncooperation|political noncooperation|rejection of authority"
+  },
+  {
+    "method": "121 refusal of public support",
+    "method_id": 121,
+    "genres": "methods of noncooperation|political noncooperation|rejection of authority"
+  },
+  {
+    "method": "122 literature and speeches advocating resistance",
+    "method_id": 122,
+    "genres": "methods of noncooperation|political noncooperation|rejection of authority"
+  },
+  {
+    "method": "123 boycott of legislative bodies",
+    "method_id": 123,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "124 boycott of elections",
+    "method_id": 124,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "125 boycott of government employment and positions",
+    "method_id": 125,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "126 boycott of government departments agencies and other bodies",
+    "method_id": 126,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "127 withdrawal from governmental educational institutions",
+    "method_id": 127,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "128 boycott of government supported institutions",
+    "method_id": 128,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "129 refusal of assistance to enforcement agents",
+    "method_id": 129,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "130 removal of own signs and placemarks",
+    "method_id": 130,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "131 refusal to accept appointed officials",
+    "method_id": 131,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "132 refusal to dissolve existing institutions",
+    "method_id": 132,
+    "genres": "methods of noncooperation|political noncooperation|citizens noncooperation with government"
+  },
+  {
+    "method": "133 reluctant and slow compliance",
+    "method_id": 133,
+    "genres": "methods of noncooperation|political noncooperation|citizens alternatives to obedience"
+  },
+  {
+    "method": "134 nonobedience in absence of direct supervision",
+    "method_id": 134,
+    "genres": "methods of noncooperation|political noncooperation|citizens alternatives to obedience"
+  },
+  {
+    "method": "135 popular nonobedience",
+    "method_id": 135,
+    "genres": "methods of noncooperation|political noncooperation|citizens alternatives to obedience"
+  },
+  {
+    "method": "136 disguised disobedience",
+    "method_id": 136,
+    "genres": "methods of noncooperation|political noncooperation|citizens alternatives to obedience"
+  },
+  {
+    "method": "137 refusal of an assemblage or meeting to disperse",
+    "method_id": 137,
+    "genres": "methods of noncooperation|political noncooperation|citizens alternatives to obedience"
+  },
+  {
+    "method": "138 sitdown",
+    "method_id": 138,
+    "genres": "methods of noncooperation|political noncooperation|citizens alternatives to obedience"
+  },
+  {
+    "method": "139 noncooperation with conscription and deportation",
+    "method_id": 139,
+    "genres": "methods of noncooperation|political noncooperation|citizens alternatives to obedience"
+  },
+  {
+    "method": "140 hiding escape and false identities",
+    "method_id": 140,
+    "genres": "methods of noncooperation|political noncooperation|citizens alternatives to obedience"
+  },
+  {
+    "method": "141 civil disobedience of illegitimate laws",
+    "method_id": 141,
+    "genres": "methods of noncooperation|political noncooperation|citizens alternatives to obedience"
+  },
+  {
+    "method": "142 selective refusal of assistance by government aides",
+    "method_id": 142,
+    "genres": "methods of noncooperation|political noncooperation|action by government personnel"
+  },
+  {
+    "method": "143 blocking of lines of command and information",
+    "method_id": 143,
+    "genres": "methods of noncooperation|political noncooperation|action by government personnel"
+  },
+  {
+    "method": "144 stalling and obstruction",
+    "method_id": 144,
+    "genres": "methods of noncooperation|political noncooperation|action by government personnel"
+  },
+  {
+    "method": "145 general administrative noncooperation",
+    "method_id": 145,
+    "genres": "methods of noncooperation|political noncooperation|action by government personnel"
+  },
+  {
+    "method": "146 judicial noncooperation",
+    "method_id": 146,
+    "genres": "methods of noncooperation|political noncooperation|action by government personnel"
+  },
+  {
+    "method": "147 deliberate inefficiency and selective noncooperation by enforcement agents",
+    "method_id": 147,
+    "genres": "methods of noncooperation|political noncooperation|action by government personnel"
+  },
+  {
+    "method": "148 mutiny",
+    "method_id": 148,
+    "genres": "methods of noncooperation|political noncooperation|action by government personnel"
+  },
+  {
+    "method": "149 quasi legal evasions and delays",
+    "method_id": 149,
+    "genres": "methods of noncooperation|political noncooperation|domestic governmental action"
+  },
+  {
+    "method": "150 noncooperation by constituent governmental units",
+    "method_id": 150,
+    "genres": "methods of noncooperation|political noncooperation|domestic governmental action"
+  },
+  {
+    "method": "151 changes in diplomatic and other representation",
+    "method_id": 151,
+    "genres": "methods of noncooperation|political noncooperation|international governmental action"
+  },
+  {
+    "method": "152 delay and cancellation of diplomatic events",
+    "method_id": 152,
+    "genres": "methods of noncooperation|political noncooperation|international governmental action"
+  },
+  {
+    "method": "153 withholding of diplomatic recognition",
+    "method_id": 153,
+    "genres": "methods of noncooperation|political noncooperation|international governmental action"
+  },
+  {
+    "method": "154 severance of diplomatic relations",
+    "method_id": 154,
+    "genres": "methods of noncooperation|political noncooperation|international governmental action"
+  },
+  {
+    "method": "155 withdrawal from international organizations",
+    "method_id": 155,
+    "genres": "methods of noncooperation|political noncooperation|international governmental action"
+  },
+  {
+    "method": "156 refusal of membership in international bodies",
+    "method_id": 156,
+    "genres": "methods of noncooperation|political noncooperation|international governmental action"
+  },
+  {
+    "method": "157 expulsion from international organisations",
+    "method_id": 157,
+    "genres": "methods of noncooperation|political noncooperation|international governmental action"
+  },
+  {
+    "method": "158 self exposure to the elements",
+    "method_id": 158,
+    "genres": "methods of nonviolent intervention|psychological intervention"
+  },
+  {
+    "method": "159 the fast fast of moral pressure hunger strike satyagrahic fast",
+    "method_id": 159,
+    "genres": "methods of nonviolent intervention|psychological intervention"
+  },
+  {
+    "method": "160 reverse trial",
+    "method_id": 160,
+    "genres": "methods of nonviolent intervention|psychological intervention"
+  },
+  {
+    "method": "161 nonviolent harassment",
+    "method_id": 161,
+    "genres": "methods of nonviolent intervention|psychological intervention"
+  },
+  {
+    "method": "162 sit in",
+    "method_id": 162,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "163 stand in",
+    "method_id": 163,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "164 ride in",
+    "method_id": 164,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "165 wade in",
+    "method_id": 165,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "166 mill in",
+    "method_id": 166,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "167 pray in",
+    "method_id": 167,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "168 nonviolent raids",
+    "method_id": 168,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "169 nonviolent air raids",
+    "method_id": 169,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "170 nonviolent invasion",
+    "method_id": 170,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "171 nonviolent interjection",
+    "method_id": 171,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "172 nonviolent obstruction",
+    "method_id": 172,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "173 nonviolent occupation",
+    "method_id": 173,
+    "genres": "methods of nonviolent intervention|physical intervention"
+  },
+  {
+    "method": "174 establishing new social patterns",
+    "method_id": 174,
+    "genres": "methods of nonviolent intervention|social intervention"
+  },
+  {
+    "method": "175 overloading of facilities",
+    "method_id": 175,
+    "genres": "methods of nonviolent intervention|social intervention"
+  },
+  {
+    "method": "176 stall in",
+    "method_id": 176,
+    "genres": "methods of nonviolent intervention|social intervention"
+  },
+  {
+    "method": "177 speak in",
+    "method_id": 177,
+    "genres": "methods of nonviolent intervention|social intervention"
+  },
+  {
+    "method": "178 guerrilla theatre",
+    "method_id": 178,
+    "genres": "methods of nonviolent intervention|social intervention"
+  },
+  {
+    "method": "179 alternative social institutions",
+    "method_id": 179,
+    "genres": "methods of nonviolent intervention|social intervention"
+  },
+  {
+    "method": "180 alternative communication system",
+    "method_id": 180,
+    "genres": "methods of nonviolent intervention|social intervention"
+  },
+  {
+    "method": "181 reverse strike",
+    "method_id": 181,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "182 stay in strike",
+    "method_id": 182,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "183 nonviolent land seizure",
+    "method_id": 183,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "184 defiance of blockades",
+    "method_id": 184,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "185 politically motivated counterfeiting",
+    "method_id": 185,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "186 preclusive purchasing",
+    "method_id": 186,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "187 seizure of assets",
+    "method_id": 187,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "188 dumping",
+    "method_id": 188,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "189 selective patronage",
+    "method_id": 189,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "190 alternative markets",
+    "method_id": 190,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "191 alternative transportation systems",
+    "method_id": 191,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "192 alternative economic institutions",
+    "method_id": 192,
+    "genres": "methods of nonviolent intervention|economic intervention"
+  },
+  {
+    "method": "193 overloading of administrative systems",
+    "method_id": 193,
+    "genres": "methods of nonviolent intervention|political intervention"
+  },
+  {
+    "method": "194 disclosing identities of secret agents",
+    "method_id": 194,
+    "genres": "methods of nonviolent intervention|political intervention"
+  },
+  {
+    "method": "195 seeking imprisonment",
+    "method_id": 195,
+    "genres": "methods of nonviolent intervention|political intervention"
+  },
+  {
+    "method": "196 civil disobedience of neutral laws",
+    "method_id": 196,
+    "genres": "methods of nonviolent intervention|political intervention"
+  },
+  {
+    "method": "197 work on without collaboration",
+    "method_id": 197,
+    "genres": "methods of nonviolent intervention|political intervention"
+  },
+  {
+    "method": "198 dual sovereignty and parallel government",
+    "method_id": 198,
+    "genres": "methods of nonviolent intervention|political intervention"
+  },
+  {
+    "method": "199 nonviolent confinement",
+    "method_id": 199,
+    "genres": "additional methods"
+  },
+  {
+    "method": "200 other",
+    "method_id": 200,
+    "genres": "additional methods"
+  }
+]

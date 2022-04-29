@@ -1,0 +1,201 @@
+﻿method;method_id;genres
+001 public speeches;1;methods of nonviolent protest and persuasion|formal statements
+002 letters of opposition or support;2;methods of nonviolent protest and persuasion|formal statements
+003 declarations by organizations and institutions;3;methods of nonviolent protest and persuasion|formal statements
+004 signed public statements;4;methods of nonviolent protest and persuasion|formal statements
+005 declarations of indictment and intention;5;methods of nonviolent protest and persuasion|formal statements
+006 group or mass petitions;6;methods of nonviolent protest and persuasion|formal statements
+007 slogans caricatures and symbols;7;methods of nonviolent protest and persuasion|communications with a wider audience
+008 banners posters and displayed communications;8;methods of nonviolent protest and persuasion|communications with a wider audience
+009 leaflets pamphlets and books;9;methods of nonviolent protest and persuasion|communications with a wider audience
+010 newspapers and journals;10;methods of nonviolent protest and persuasion|communications with a wider audience
+011 records radio and television;11;methods of nonviolent protest and persuasion|communications with a wider audience
+012 skywriting and earthwriting;12;methods of nonviolent protest and persuasion|communications with a wider audience
+013 deputations;13;methods of nonviolent protest and persuasion|group representations
+014 mock awards;14;methods of nonviolent protest and persuasion|group representations
+015 group lobbying;15;methods of nonviolent protest and persuasion|group representations
+016 picketing;16;methods of nonviolent protest and persuasion|group representations
+017 mock elections;17;methods of nonviolent protest and persuasion|group representations
+018 displays of flags and symbolic colors;18;methods of nonviolent protest and persuasion|symbolic public acts
+019 wearing of symbols;19;methods of nonviolent protest and persuasion|symbolic public acts
+020 prayer and worship;20;methods of nonviolent protest and persuasion|symbolic public acts
+021 delivering symbolic objects;21;methods of nonviolent protest and persuasion|symbolic public acts
+022 protest disrobings;22;methods of nonviolent protest and persuasion|symbolic public acts
+023 destruction of own property;23;methods of nonviolent protest and persuasion|symbolic public acts
+024 symbolic lights;24;methods of nonviolent protest and persuasion|symbolic public acts
+025 displays of portraits;25;methods of nonviolent protest and persuasion|symbolic public acts
+026 paint as protest;26;methods of nonviolent protest and persuasion|symbolic public acts
+027 new signs and names;27;methods of nonviolent protest and persuasion|symbolic public acts
+028 symbolic sounds;28;methods of nonviolent protest and persuasion|symbolic public acts
+029 symbolic reclamations;29;methods of nonviolent protest and persuasion|symbolic public acts
+030 rude gestures;30;methods of nonviolent protest and persuasion|symbolic public acts
+031 haunting officials;31;methods of nonviolent protest and persuasion|pressures on individuals
+032 taunting officials;32;methods of nonviolent protest and persuasion|pressures on individuals
+033 fraternization;33;methods of nonviolent protest and persuasion|pressures on individuals
+034 vigils;34;methods of nonviolent protest and persuasion|pressures on individuals
+035 humorous skits and pranks;35;methods of nonviolent protest and persuasion|drama and music
+036 performances of plays and music;36;methods of nonviolent protest and persuasion|drama and music
+037 singing;37;methods of nonviolent protest and persuasion|drama and music
+038 marches;38;methods of nonviolent protest and persuasion|processions
+039 parades;39;methods of nonviolent protest and persuasion|processions
+040 religious processions;40;methods of nonviolent protest and persuasion|processions
+041 pilgrimages;41;methods of nonviolent protest and persuasion|processions
+042 motorcades;42;methods of nonviolent protest and persuasion|processions
+043 political mourning;43;methods of nonviolent protest and persuasion|honoring the dead
+044 mock funerals;44;methods of nonviolent protest and persuasion|honoring the dead
+045 demonstrative funerals;45;methods of nonviolent protest and persuasion|honoring the dead
+046 homage at burial places;46;methods of nonviolent protest and persuasion|honoring the dead
+047 assemblies of protest or support;47;methods of nonviolent protest and persuasion|public assemblies
+048 protest meetings;48;methods of nonviolent protest and persuasion|public assemblies
+049 camouflaged meetings of protest;49;methods of nonviolent protest and persuasion|public assemblies
+050 teach ins;50;methods of nonviolent protest and persuasion|public assemblies
+051 walk outs;51;methods of nonviolent protest and persuasion|withdrawal and renunciation
+052 silence;52;methods of nonviolent protest and persuasion|withdrawal and renunciation
+053 renouncing honours;53;methods of nonviolent protest and persuasion|withdrawal and renunciation
+054 turning ones back;54;methods of nonviolent protest and persuasion|withdrawal and renunciation
+055 social boycott;55;methods of noncooperation|social noncooperation|ostracism of persons
+056 selective social boycott;56;methods of noncooperation|social noncooperation|ostracism of persons
+057 lysistratic nonaction;57;methods of noncooperation|social noncooperation|ostracism of persons
+058 excommunication;58;methods of noncooperation|social noncooperation|ostracism of persons
+059 interdict;59;methods of noncooperation|social noncooperation|ostracism of persons
+060 suspension of social and sports activities;60;methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions
+061 boycott of social affairs;61;methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions
+062 student strike;62;methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions
+063 social disobedience;63;methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions
+064 withdrawal from social institutions;64;methods of noncooperation|social noncooperation|noncooperation with social events customs and institutions
+065 stay at home;65;methods of noncooperation|social noncooperation|withdrawal from the social system
+066 total personal noncooperation;66;methods of noncooperation|social noncooperation|withdrawal from the social system
+067 flight of workers;67;methods of noncooperation|social noncooperation|withdrawal from the social system
+068 sanctuary;68;methods of noncooperation|social noncooperation|withdrawal from the social system
+069 collective disappearance;69;methods of noncooperation|social noncooperation|withdrawal from the social system
+070 protest emigration hijrat;70;methods of noncooperation|social noncooperation|withdrawal from the social system
+071 consumers boycott;71;methods of noncooperation|economic noncooperation boycotts|action by consumers
+072 nonconsumption of boycotted goods;72;methods of noncooperation|economic noncooperation boycotts|action by consumers
+073 policy of austerity;73;methods of noncooperation|economic noncooperation boycotts|action by consumers
+074 rent withholding;74;methods of noncooperation|economic noncooperation boycotts|action by consumers
+075 refusal to rent;75;methods of noncooperation|economic noncooperation boycotts|action by consumers
+076 national consumers boycott;76;methods of noncooperation|economic noncooperation boycotts|action by consumers
+077 international consumers boycott;77;methods of noncooperation|economic noncooperation boycotts|action by consumers
+078 workers boycott;78;methods of noncooperation|economic noncooperation boycotts|action by workers and producers
+079 producers boycott;79;methods of noncooperation|economic noncooperation boycotts|action by workers and producers
+080 suppliers and handlers boycott;80;methods of noncooperation|economic noncooperation boycotts|action by middlemen
+081 traders boycott;81;methods of noncooperation|economic noncooperation boycotts|action by owners and management
+082 refusal to let or sell property;82;methods of noncooperation|economic noncooperation boycotts|action by owners and management
+083 lockout;83;methods of noncooperation|economic noncooperation boycotts|action by owners and management
+084 refusal of industrial assistance;84;methods of noncooperation|economic noncooperation boycotts|action by owners and management
+085 merchants general strike;85;methods of noncooperation|economic noncooperation boycotts|action by owners and management
+086 withdrawal of bank deposits;86;methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources
+087 refusal to pay fees dues and assessments;87;methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources
+088 refusal to pay debts or interest;88;methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources
+089 severance of funds and credit;89;methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources
+090 revenue refusal;90;methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources
+091 refusal of a governments money;91;methods of noncooperation|economic noncooperation boycotts|action by holders of financial resources
+092 domestic embargo;92;methods of noncooperation|economic noncooperation boycotts|action by governments
+093 blacklisting of traders;93;methods of noncooperation|economic noncooperation boycotts|action by governments
+094 international sellers embargo;94;methods of noncooperation|economic noncooperation boycotts|action by governments
+095 international buyers embargo;95;methods of noncooperation|economic noncooperation boycotts|action by governments
+096 international trade embargo;96;methods of noncooperation|economic noncooperation boycotts|action by governments
+097 protest strike;97;methods of noncooperation|economic noncooperation strikes|symbolic strikes
+098 quickie walkout lightning strike;98;methods of noncooperation|economic noncooperation strikes|symbolic strikes
+099 peasant strike;99;methods of noncooperation|economic noncooperation strikes|agricultural strikes
+100 farm workers strike;100;methods of noncooperation|economic noncooperation strikes|agricultural strikes
+101 refusal of impressed labor;101;methods of noncooperation|economic noncooperation strikes|strikes by special groups
+102 prisoners strike;102;methods of noncooperation|economic noncooperation strikes|strikes by special groups
+103 craft strike;103;methods of noncooperation|economic noncooperation strikes|strikes by special groups
+104 professional strike;104;methods of noncooperation|economic noncooperation strikes|strikes by special groups
+105 establishment strike;105;methods of noncooperation|economic noncooperation strikes|ordinary industrial strikes
+106 industry strike;106;methods of noncooperation|economic noncooperation strikes|ordinary industrial strikes
+107 sympathy strike;107;methods of noncooperation|economic noncooperation strikes|ordinary industrial strikes
+108 detailed strike;108;methods of noncooperation|economic noncooperation strikes|restricted strikes
+109 bumper strike;109;methods of noncooperation|economic noncooperation strikes|restricted strikes
+110 slowdown strike;110;methods of noncooperation|economic noncooperation strikes|restricted strikes
+111 working to rule strike;111;methods of noncooperation|economic noncooperation strikes|restricted strikes
+112 reporting sick sick in;112;methods of noncooperation|economic noncooperation strikes|restricted strikes
+113 strike by resignation;113;methods of noncooperation|economic noncooperation strikes|restricted strikes
+114 limited strike;114;methods of noncooperation|economic noncooperation strikes|restricted strikes
+115 selective strike;115;methods of noncooperation|economic noncooperation strikes|restricted strikes
+116 generalised strike;116;methods of noncooperation|economic noncooperation strikes|multi industry strikes
+117 general strike;117;methods of noncooperation|economic noncooperation strikes|multi industry strikes
+118 hartal;118;methods of noncooperation|economic noncooperation strikes|combination of strikes and economic closures
+119 economic shutdown;119;methods of noncooperation|economic noncooperation strikes|combination of strikes and economic closures
+120 withholding or withdrawal of allegiance;120;methods of noncooperation|political noncooperation|rejection of authority
+121 refusal of public support;121;methods of noncooperation|political noncooperation|rejection of authority
+122 literature and speeches advocating resistance;122;methods of noncooperation|political noncooperation|rejection of authority
+123 boycott of legislative bodies;123;methods of noncooperation|political noncooperation|citizens noncooperation with government
+124 boycott of elections;124;methods of noncooperation|political noncooperation|citizens noncooperation with government
+125 boycott of government employment and positions;125;methods of noncooperation|political noncooperation|citizens noncooperation with government
+126 boycott of government departments agencies and other bodies;126;methods of noncooperation|political noncooperation|citizens noncooperation with government
+127 withdrawal from governmental educational institutions;127;methods of noncooperation|political noncooperation|citizens noncooperation with government
+128 boycott of government supported institutions;128;methods of noncooperation|political noncooperation|citizens noncooperation with government
+129 refusal of assistance to enforcement agents;129;methods of noncooperation|political noncooperation|citizens noncooperation with government
+130 removal of own signs and placemarks;130;methods of noncooperation|political noncooperation|citizens noncooperation with government
+131 refusal to accept appointed officials;131;methods of noncooperation|political noncooperation|citizens noncooperation with government
+132 refusal to dissolve existing institutions;132;methods of noncooperation|political noncooperation|citizens noncooperation with government
+133 reluctant and slow compliance;133;methods of noncooperation|political noncooperation|citizens alternatives to obedience
+134 nonobedience in absence of direct supervision;134;methods of noncooperation|political noncooperation|citizens alternatives to obedience
+135 popular nonobedience;135;methods of noncooperation|political noncooperation|citizens alternatives to obedience
+136 disguised disobedience;136;methods of noncooperation|political noncooperation|citizens alternatives to obedience
+137 refusal of an assemblage or meeting to disperse;137;methods of noncooperation|political noncooperation|citizens alternatives to obedience
+138 sitdown;138;methods of noncooperation|political noncooperation|citizens alternatives to obedience
+139 noncooperation with conscription and deportation;139;methods of noncooperation|political noncooperation|citizens alternatives to obedience
+140 hiding escape and false identities;140;methods of noncooperation|political noncooperation|citizens alternatives to obedience
+141 civil disobedience of illegitimate laws;141;methods of noncooperation|political noncooperation|citizens alternatives to obedience
+142 selective refusal of assistance by government aides;142;methods of noncooperation|political noncooperation|action by government personnel
+143 blocking of lines of command and information;143;methods of noncooperation|political noncooperation|action by government personnel
+144 stalling and obstruction;144;methods of noncooperation|political noncooperation|action by government personnel
+145 general administrative noncooperation;145;methods of noncooperation|political noncooperation|action by government personnel
+146 judicial noncooperation;146;methods of noncooperation|political noncooperation|action by government personnel
+147 deliberate inefficiency and selective noncooperation by enforcement agents;147;methods of noncooperation|political noncooperation|action by government personnel
+148 mutiny;148;methods of noncooperation|political noncooperation|action by government personnel
+149 quasi legal evasions and delays;149;methods of noncooperation|political noncooperation|domestic governmental action
+150 noncooperation by constituent governmental units;150;methods of noncooperation|political noncooperation|domestic governmental action
+151 changes in diplomatic and other representation;151;methods of noncooperation|political noncooperation|international governmental action
+152 delay and cancellation of diplomatic events;152;methods of noncooperation|political noncooperation|international governmental action
+153 withholding of diplomatic recognition;153;methods of noncooperation|political noncooperation|international governmental action
+154 severance of diplomatic relations;154;methods of noncooperation|political noncooperation|international governmental action
+155 withdrawal from international organizations;155;methods of noncooperation|political noncooperation|international governmental action
+156 refusal of membership in international bodies;156;methods of noncooperation|political noncooperation|international governmental action
+157 expulsion from international organisations;157;methods of noncooperation|political noncooperation|international governmental action
+158 self exposure to the elements;158;methods of nonviolent intervention|psychological intervention
+159 the fast fast of moral pressure hunger strike satyagrahic fast;159;methods of nonviolent intervention|psychological intervention
+160 reverse trial;160;methods of nonviolent intervention|psychological intervention
+161 nonviolent harassment;161;methods of nonviolent intervention|psychological intervention
+162 sit in;162;methods of nonviolent intervention|physical intervention
+163 stand in;163;methods of nonviolent intervention|physical intervention
+164 ride in;164;methods of nonviolent intervention|physical intervention
+165 wade in;165;methods of nonviolent intervention|physical intervention
+166 mill in;166;methods of nonviolent intervention|physical intervention
+167 pray in;167;methods of nonviolent intervention|physical intervention
+168 nonviolent raids;168;methods of nonviolent intervention|physical intervention
+169 nonviolent air raids;169;methods of nonviolent intervention|physical intervention
+170 nonviolent invasion;170;methods of nonviolent intervention|physical intervention
+171 nonviolent interjection;171;methods of nonviolent intervention|physical intervention
+172 nonviolent obstruction;172;methods of nonviolent intervention|physical intervention
+173 nonviolent occupation;173;methods of nonviolent intervention|physical intervention
+174 establishing new social patterns;174;methods of nonviolent intervention|social intervention
+175 overloading of facilities;175;methods of nonviolent intervention|social intervention
+176 stall in;176;methods of nonviolent intervention|social intervention
+177 speak in;177;methods of nonviolent intervention|social intervention
+178 guerrilla theatre;178;methods of nonviolent intervention|social intervention
+179 alternative social institutions;179;methods of nonviolent intervention|social intervention
+180 alternative communication system;180;methods of nonviolent intervention|social intervention
+181 reverse strike;181;methods of nonviolent intervention|economic intervention
+182 stay in strike;182;methods of nonviolent intervention|economic intervention
+183 nonviolent land seizure;183;methods of nonviolent intervention|economic intervention
+184 defiance of blockades;184;methods of nonviolent intervention|economic intervention
+185 politically motivated counterfeiting;185;methods of nonviolent intervention|economic intervention
+186 preclusive purchasing;186;methods of nonviolent intervention|economic intervention
+187 seizure of assets;187;methods of nonviolent intervention|economic intervention
+188 dumping;188;methods of nonviolent intervention|economic intervention
+189 selective patronage;189;methods of nonviolent intervention|economic intervention
+190 alternative markets;190;methods of nonviolent intervention|economic intervention
+191 alternative transportation systems;191;methods of nonviolent intervention|economic intervention
+192 alternative economic institutions;192;methods of nonviolent intervention|economic intervention
+193 overloading of administrative systems;193;methods of nonviolent intervention|political intervention
+194 disclosing identities of secret agents;194;methods of nonviolent intervention|political intervention
+195 seeking imprisonment;195;methods of nonviolent intervention|political intervention
+196 civil disobedience of neutral laws;196;methods of nonviolent intervention|political intervention
+197 work on without collaboration;197;methods of nonviolent intervention|political intervention
+198 dual sovereignty and parallel government;198;methods of nonviolent intervention|political intervention
+199 nonviolent confinement;199;additional methods
+200 other;200;additional methods

@@ -1,0 +1,645 @@
+user_1005|method_159,method_2,method_13,method_34|9.0,9.0,9.0,9.0|three ohio deathsentenced prisoners hunger strike for rights 2011|united states|human rights|change|yes|no|no|no
+user_1013|method_47,method_1,method_8,method_13|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_1013|method_8,method_13,method_23,method_48|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_1014|method_1,method_48,method_5,method_9|3.5,3.5,3.5,3.5|new york university students campaign for transparency 20072009|united states|democracy|change|yes|no|yes|yes
+user_1016|method_8,method_1,method_5,method_7|8.0,8.0,8.0,8.0|algerian citizens nonviolently intervene to prevent civil war 1962|algeria|peace|third-party nonviolent intervention|yes|no|no|no
+user_1018|method_47,method_37,method_18,method_19|7.0,7.0,7.0,7.0|australians campaign against nuclear power and uranium mining 19741988|australia|environment|change|yes|no|no|no
+user_1019|method_47,method_159,method_38,method_104|10.0,10.0,10.0,10.0|salvadoran health professionals prevent privatization of health care 20022003|el salvador|economic justice|defense|no|no|no|yes
+user_102|method_6,method_32,method_162,method_50|2.0,2.0,2.0,2.0|us students campaign to stop dow chemical company from manufacturing napalm 19671969|united states|human rights|change|no|yes|yes|yes
+user_102|method_38,method_2,method_122,method_89|2.0,2.0,2.0,2.0|us students campaign to stop dow chemical company from manufacturing napalm 19671969|united states|human rights|change|no|yes|yes|yes
+user_1022|method_118,method_96,method_147,method_6|10.0,10.0,10.0,10.0|french citizens and soldiers nonviolently defend against algerian putsch 1961|france|democracy|defense|yes|no|no|yes
+user_1022|method_147,method_6,method_145,method_144|10.0,10.0,10.0,10.0|french citizens and soldiers nonviolently defend against algerian putsch 1961|france|democracy|defense|yes|no|no|yes
+user_1022|method_65,method_47,method_9,method_122|10.0,10.0,10.0,10.0|french citizens and soldiers nonviolently defend against algerian putsch 1961|france|democracy|defense|yes|no|no|yes
+user_1024|method_159,method_163,method_162,method_38|8.0,8.0,8.0,8.0|indian workers double wages at construction firm in anguilla 2007|anguilla|economic justice|change|yes|no|no|no
+user_103|method_28,method_8,method_38,method_159|8.0,8.0,8.0,8.0|chilean students protest for free public education 201113|chile|economic justice|change|no|no|yes|yes
+user_1030|method_2,method_159,method_13,method_34|9.0,9.0,9.0,9.0|three ohio deathsentenced prisoners hunger strike for rights 2011|united states|human rights|change|yes|no|no|no
+user_1038|method_97,method_34,method_32,method_24|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_104|method_39,method_47,method_8,method_14|7.0,7.0,7.0,7.0|greenpeace pushes for global ban on cfcs 1986  1995|united states|environment|change|yes|no|no|no
+user_1044|method_15,method_1,method_18,method_47|10.0,10.0,10.0,10.0|salvadoran health professionals prevent privatization of health care 20022003|el salvador|economic justice|defense|no|no|no|yes
+user_1047|method_47,method_9,method_122,method_11|10.0,10.0,10.0,10.0|french citizens and soldiers nonviolently defend against algerian putsch 1961|france|democracy|defense|yes|no|no|yes
+user_1048|method_38,method_48,method_97,method_104|6.0,6.0,6.0,6.0|the force ouvrière labor union strikes for economic justice and education wallis and futuna 1994|wallis and futuna|economic justice|change|no|yes|yes|no
+user_1048|method_48,method_97,method_104,method_13|6.0,6.0,6.0,6.0|the force ouvrière labor union strikes for economic justice and education wallis and futuna 1994|wallis and futuna|economic justice|change|no|yes|yes|no
+user_1051|method_89,method_15,method_159,method_47|7.0,7.0,7.0,7.0|bhutanese refugees hunger strike for repatriation 2003|bhutan|human rights|defense|yes|no|no|no
+user_1053|method_34,method_124,method_3,method_141|3.0,3.0,3.0,3.0|naga campaign for leader to return to the manipur region 2010|india|democracy|change|no|yes|yes|yes
+user_1055|method_13,method_34,method_2,method_159|9.0,9.0,9.0,9.0|three ohio deathsentenced prisoners hunger strike for rights 2011|united states|human rights|change|yes|no|no|no
+user_1064|method_1,method_5,method_9,method_48|3.5,3.5,3.5,3.5|new york university students campaign for transparency 20072009|united states|democracy|change|yes|no|yes|yes
+user_1065|method_105,method_106,method_97,method_16|8.0,8.0,8.0,8.0|new caledonian workers union defends fired comrades 2005|new caledonia|economic justice|defense|no|yes|yes|no
+user_1066|method_117,method_47,method_8,method_7|8.0,8.0,8.0,8.0|algerian citizens nonviolently intervene to prevent civil war 1962|algeria|peace|third-party nonviolent intervention|yes|no|no|no
+user_1077|method_124,method_3,method_63,method_48|3.0,3.0,3.0,3.0|naga campaign for leader to return to the manipur region 2010|india|democracy|change|no|yes|yes|yes
+user_108|method_172,method_47,method_78,method_97|10.0,10.0,10.0,10.0|lampedusa inhabitants strike against nuclear dumping 1968|italy|environment|defense|no|no|yes|no
+user_1084|method_34,method_47,method_38,method_3|9.0,9.0,9.0,9.0|maltese students defend stipends from cuts 1997|malta|economic justice|defense|yes|no|no|yes
+user_1087|method_1,method_47,method_97,method_34|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_1087|method_47,method_97,method_34,method_24|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_1089|method_105,method_106,method_97,method_16|8.0,8.0,8.0,8.0|new caledonian workers union defends fired comrades 2005|new caledonia|economic justice|defense|no|yes|yes|no
+user_1092|method_97,method_1,method_3,method_38|7.0,7.0,7.0,7.0|australians campaign against nuclear power and uranium mining 19741988|australia|environment|change|yes|no|no|no
+user_1093|method_15,method_1,method_18,method_47|10.0,10.0,10.0,10.0|salvadoran health professionals prevent privatization of health care 20022003|el salvador|economic justice|defense|no|no|no|yes
+user_1093|method_47,method_159,method_38,method_104|10.0,10.0,10.0,10.0|salvadoran health professionals prevent privatization of health care 20022003|el salvador|economic justice|defense|no|no|no|yes
+user_1094|method_7,method_8,method_5,method_6|8.0,8.0,8.0,8.0|gibraltarians campaign for sovereignty 20022004|gibraltar|democracy|defense|no|no|no|no
+user_1099|method_5,method_38,method_34,method_19|9.0,9.0,9.0,9.0|northern mariana islands foreign workers win united states federalization of immigration control 20072008|northern mariana islands|economic justice|change|yes|no|no|no
+user_1105|method_97,method_38,method_47,method_1|7.0,7.0,7.0,7.0|australians campaign against nuclear power and uranium mining 19741988|australia|environment|change|yes|no|no|no
+user_1107|method_5,method_6,method_7,method_8|8.0,8.0,8.0,8.0|gibraltarians campaign for sovereignty 20022004|gibraltar|democracy|defense|no|no|no|no
+user_1110|method_38,method_48,method_97,method_104|6.0,6.0,6.0,6.0|the force ouvrière labor union strikes for economic justice and education wallis and futuna 1994|wallis and futuna|economic justice|change|no|yes|yes|no
+user_1112|method_20,method_6,method_5,method_38|9.0,9.0,9.0,9.0|northern mariana islands foreign workers win united states federalization of immigration control 20072008|northern mariana islands|economic justice|change|yes|no|no|no
+user_1112|method_34,method_19,method_18,method_8|9.0,9.0,9.0,9.0|northern mariana islands foreign workers win united states federalization of immigration control 20072008|northern mariana islands|economic justice|change|yes|no|no|no
+user_1114|method_6,method_7,method_47,method_171|10.0,10.0,10.0,10.0|carleton university students win divestment from apartheid south africa 198587|canada|democracy|change|no|no|no|no
+user_1115|method_11,method_47,method_140,method_56|2.5,2.5,2.5,2.5|burmese myanmar monks campaign for democracy saffron revolution 2007|burma|democracy|change|yes|no|yes|yes
+user_1115|method_7,method_96,method_137,method_8|2.5,2.5,2.5,2.5|burmese myanmar monks campaign for democracy saffron revolution 2007|burma|democracy|change|yes|no|yes|yes
+user_1117|method_3,method_89,method_6,method_8|4.0,4.0,4.0,4.0|us artists campaign against art censorship at the smithsonian 20102011|united states|democracy|defense|yes|no|no|no
+user_1117|method_6,method_8,method_9,method_16|4.0,4.0,4.0,4.0|us artists campaign against art censorship at the smithsonian 20102011|united states|democracy|defense|yes|no|no|no
+user_1117|method_19,method_7,method_38,method_47|4.0,4.0,4.0,4.0|us artists campaign against art censorship at the smithsonian 20102011|united states|democracy|defense|yes|no|no|no
+user_1119|method_114,method_117,method_11,method_47|5.0,5.0,5.0,5.0|haitians demand civilian government and democratic elections 198688|haiti|democracy|change|yes|no|yes|yes
+user_1119|method_28,method_45,method_90,method_104|5.0,5.0,5.0,5.0|haitians demand civilian government and democratic elections 198688|haiti|democracy|change|yes|no|yes|yes
+user_1123|method_1,method_16,method_47,method_5|10.0,10.0,10.0,10.0|pakistani lawyers protect constitution and reinstate judges save the judiciary movement 20072009|pakistan|democracy|defense|yes|no|no|yes
+user_1128|method_173,method_170,method_17,method_38|9.0,9.0,9.0,9.0|bolivians end foreignowned water privatization in cochabamba water war 2000|bolivia|democracy|defense|yes|no|no|no
+user_1128|method_17,method_38,method_36,method_28|9.0,9.0,9.0,9.0|bolivians end foreignowned water privatization in cochabamba water war 2000|bolivia|democracy|defense|yes|no|no|no
+user_1131|method_174,method_198,method_37,method_32|9.0,9.0,9.0,9.0|cameroonian women use anlu for social and political change 19581961|cameroon|democracy|change|no|no|yes|no
+user_1133|method_10,method_8,method_7,method_6|5.0,5.0,5.0,5.0|burkina faso coalition campaigns for justice in journalist zongos death 19982001|burkina faso|human rights|change|no|no|yes|yes
+user_1134|method_21,method_11,method_7,method_56|7.0,7.0,7.0,7.0|us street artists protest against art censorship of artist blu 20102011|united states|human rights|defense|no|no|no|no
+user_1134|method_8,method_24,method_26,method_44|7.0,7.0,7.0,7.0|us street artists protest against art censorship of artist blu 20102011|united states|human rights|defense|no|no|no|no
+user_1134|method_26,method_44,method_47,method_178|7.0,7.0,7.0,7.0|us street artists protest against art censorship of artist blu 20102011|united states|human rights|defense|no|no|no|no
+user_1137|method_37,method_19,method_62,method_97|9.0,9.0,9.0,9.0|university of california at berkeley students campaign for freedom of speech united states 1964|united states|democracy|change|yes|no|yes|yes
+user_1137|method_16,method_34,method_38,method_47|9.0,9.0,9.0,9.0|university of california at berkeley students campaign for freedom of speech united states 1964|united states|democracy|change|yes|no|yes|yes
+user_1138|method_97,method_104,method_141,method_117|6.0,6.0,6.0,6.0|canadian quebecois workers general strike for higher wages and job equality 1972|canada|democracy|change|no|no|yes|yes
+user_1140|method_20,method_37,method_159,method_96|2.5,2.5,2.5,2.5|burmese myanmar monks campaign for democracy saffron revolution 2007|burma|democracy|change|yes|no|yes|yes
+user_1140|method_1,method_11,method_47,method_140|2.5,2.5,2.5,2.5|burmese myanmar monks campaign for democracy saffron revolution 2007|burma|democracy|change|yes|no|yes|yes
+user_1142|method_16,method_9,method_8,method_6|4.0,4.0,4.0,4.0|us artists campaign against art censorship at the smithsonian 20102011|united states|democracy|defense|yes|no|no|no
+user_1144|method_45,method_90,method_104,method_125|5.0,5.0,5.0,5.0|haitians demand civilian government and democratic elections 198688|haiti|democracy|change|yes|no|yes|yes
+user_1144|method_60,method_28,method_89,method_126|5.0,5.0,5.0,5.0|haitians demand civilian government and democratic elections 198688|haiti|democracy|change|yes|no|yes|yes
+user_1144|method_89,method_126,method_36,method_10|5.0,5.0,5.0,5.0|haitians demand civilian government and democratic elections 198688|haiti|democracy|change|yes|no|yes|yes
+user_1146|method_62,method_8,method_47,method_1|10.0,10.0,10.0,10.0|chileans overthrow dictator carlos ibañez del campo 1931|chile|democracy|change|yes|no|yes|yes
+user_1148|method_16,method_47,method_5,method_48|10.0,10.0,10.0,10.0|pakistani lawyers protect constitution and reinstate judges save the judiciary movement 20072009|pakistan|democracy|defense|yes|no|no|yes
+user_115|method_16,method_48,method_38,method_47|9.0,9.0,9.0,9.0|south korean media workers resist privatisation of television networks 20082009|south korea|democracy|defense|no|no|no|no
+user_1150|method_7,method_1,method_8,method_62|5.0,5.0,5.0,5.0|burkina faso coalition campaigns for justice in journalist zongos death 19982001|burkina faso|human rights|change|no|no|yes|yes
+user_1151|method_178,method_47,method_44,method_26|7.0,7.0,7.0,7.0|us street artists protest against art censorship of artist blu 20102011|united states|human rights|defense|no|no|no|no
+user_1152|method_8,method_13,method_23,method_47|10.0,10.0,10.0,10.0|mauritius tamil community stops banknote alteration 1998|mauritius|national-ethnic identity|defense|yes|no|no|no
+user_1153|method_2,method_11,method_37,method_121|5.0,5.0,5.0,5.0|brazilian catholic church campaigns against deportation and human rights abuses 1980|brazil|democracy|change|yes|no|no|yes
+user_1156|method_48,method_171,method_47,method_7|10.0,10.0,10.0,10.0|carleton university students win divestment from apartheid south africa 198587|canada|democracy|change|no|no|no|no
+user_116|method_10,method_47,method_34,method_21|10.0,10.0,10.0,10.0|tibetan unchain the truth campaign for prisoner release 20132014|china|human rights|change|yes|no|no|no
+user_1166|method_25,method_18,method_1,method_38|8.0,8.0,8.0,8.0|moroccans march into western sahara in the green march 1975|morocco|national-ethnic identity|change|yes|no|no|no
+user_1172|method_71,method_63,method_162,method_62|7.0,7.0,7.0,7.0|jackson tennessee students campaign for us civil rights 19601961|united states|democracy|change|no|yes|no|yes
+user_1174|method_47,method_48,method_37,method_62|1.0,1.0,1.0,1.0|montgomery alabama students sitin for us civil rights 1960|united states|human rights|change|yes|yes|no|yes
+user_1181|method_38,method_47,method_168,method_3|10.0,10.0,10.0,10.0|us antinuclear activists and community members force closure of shoreham nuclear power plant 19761989|united states|democracy|change|yes|yes|no|no
+user_1181|method_47,method_168,method_3,method_9|10.0,10.0,10.0,10.0|us antinuclear activists and community members force closure of shoreham nuclear power plant 19761989|united states|democracy|change|yes|yes|no|no
+user_1185|method_6,method_192,method_71,method_159|3.0,3.0,3.0,3.0|orangeburg county south carolina citizens and students boycott for us civil rights 19551956|united states|human rights|change|no|yes|no|yes
+user_1186|method_195,method_20,method_16,method_171|7.0,7.0,7.0,7.0|us groups campaign to oppose abortion 19871991|united states|human rights|change|no|yes|yes|yes
+user_1186|method_16,method_171,method_162,method_11|7.0,7.0,7.0,7.0|us groups campaign to oppose abortion 19871991|united states|human rights|change|no|yes|yes|yes
+user_1186|method_7,method_1,method_37,method_137|7.0,7.0,7.0,7.0|us groups campaign to oppose abortion 19871991|united states|human rights|change|no|yes|yes|yes
+user_1189|method_159,method_170,method_173,method_195|7.5,7.5,7.5,7.5|clamshell alliance campaigns against seabrook nuclear power plant new hampshire 19761989|united states|environment|defense|yes|yes|no|yes
+user_1190|method_7,method_48,method_38,method_6|6.0,6.0,6.0,6.0|citizens protest against maine yankee nuclear power plant wiscasset maine 197987|united states|environment|change|yes|no|no|no
+user_1191|method_33,method_32,method_19,method_3|8.0,8.0,8.0,8.0|us disability rights activists adapt win support from governors for medicaid reform 20022005|united states|human rights|change|yes|no|no|yes
+user_1191|method_19,method_3,method_48,method_47|8.0,8.0,8.0,8.0|us disability rights activists adapt win support from governors for medicaid reform 20022005|united states|human rights|change|yes|no|no|yes
+user_12|method_6,method_38,method_52,method_85|4.5,4.5,4.5,4.5|congolese protest for end to president kabilas presidency 20162019|none|democracy|change|yes|no|yes|yes
+user_12|method_52,method_85,method_119,method_65|4.5,4.5,4.5,4.5|congolese protest for end to president kabilas presidency 20162019|none|democracy|change|yes|no|yes|yes
+user_12|method_119,method_65,method_3,method_2|4.5,4.5,4.5,4.5|congolese protest for end to president kabilas presidency 20162019|none|democracy|change|yes|no|yes|yes
+user_121|method_200,method_34,method_50,method_1|10.0,10.0,10.0,10.0|newark delaware usa community activists stop power plant in their neighborhood  20132014|united states|environment|defense|no|yes|no|no
+user_129|method_21,method_37,method_38,method_9|6.0,6.0,6.0,6.0|zimbabwean women organize stand up for your child campaign 2008|zimbabwe|democracy|change|yes|yes|no|yes
+user_13|method_159,method_178,method_7,method_18|8.0,8.0,8.0,8.0|norillag prisoners strike for better conditions norilsk uprising 1953|soviet union|human rights|change|no|no|no|yes
+user_130|method_1,method_38,method_36,method_47|5.0,5.0,5.0,5.0|scots campaign for independence 20122014|scotland|national-ethnic identity|change|yes|yes|yes|no
+user_131|method_3,method_7,method_11,method_16|4.5,4.5,4.5,4.5|writers guild of america strikes to increase funding for writers from large studios 20072008|united states|economic justice|change|yes|no|no|no
+user_137|method_137,method_122,method_62,method_47|6.0,6.0,6.0,6.0|australians blockade world economic forum  2000|australia|economic justice|change|no|no|yes|yes
+user_139|method_117,method_173,method_10,method_47|8.0,8.0,8.0,8.0|spanish homeowners and activists blockade and occupy to protest home evictions 20092013|spain|economic justice|change|no|no|no|yes
+user_140|method_162,method_8,method_1,method_21|2.5,2.5,2.5,2.5|washington university students sitin to end university ties with peabody coal 2014|united states|economic justice|none|no|no|no|yes
+user_142|method_35,method_36,method_26,method_8|4.5,4.5,4.5,4.5|panamanian protests against casco viejo development projects 20102014|panama|environment|defense|yes|yes|no|no
+user_145|method_6,method_7,method_47,method_38|10.0,10.0,10.0,10.0|environmentalists achieve a ban on fracking in new york united states  20122014|united states|environment|defense|yes|no|no|no
+user_145|method_161,method_178,method_200,method_4|10.0,10.0,10.0,10.0|environmentalists achieve a ban on fracking in new york united states  20122014|united states|environment|defense|yes|no|no|no
+user_146|method_8,method_7,method_3,method_2|9.5,9.5,9.5,9.5|new zealanders prevent opening of national parks for mining 2010|new zealand|environment|defense|yes|yes|no|no
+user_147|method_63,method_16,method_47,method_2|3.5,3.5,3.5,3.5|art workers coalition demonstrates for artists rights 1969|united states|economic justice|none|yes|yes|no|no
+user_15|method_7,method_8,method_16,method_9|9.0,9.0,9.0,9.0|san francisco strippers win right to form a union 19961997|united states|economic justice|change|no|no|no|yes
+user_15|method_16,method_9,method_110,method_38|9.0,9.0,9.0,9.0|san francisco strippers win right to form a union 19961997|united states|economic justice|change|no|no|no|yes
+user_155|method_1,method_8,method_47,method_38|10.0,10.0,10.0,10.0|uk community stages protest camp to build opposition to fracking  201314|united kingdom|environment|defense|yes|no|yes|yes
+user_155|method_37,method_35,method_4,method_173|10.0,10.0,10.0,10.0|uk community stages protest camp to build opposition to fracking  201314|united kingdom|environment|defense|yes|no|yes|yes
+user_156|method_66,method_9,method_47,method_2|9.0,9.0,9.0,9.0|belgian doctors strike to block singlepayer healthcare 1964|belgium|economic justice|change|yes|yes|no|no
+user_156|method_180,method_192,method_122,method_104|9.0,9.0,9.0,9.0|belgian doctors strike to block singlepayer healthcare 1964|belgium|economic justice|change|yes|yes|no|no
+user_157|method_3,method_8,method_173,method_144|5.5,5.5,5.5,5.5|ecuadorian indigenous stage mass uprising against neoliberal measures including privatizing water and taking communally held land 1994|ecuador|democracy|change|no|no|no|yes
+user_158|method_62,method_51,method_1,method_162|6.0,6.0,6.0,6.0|french students and workers strike against sarkozys austerity policies 2009|france|economic justice|change|yes|no|yes|no
+user_159|method_16,method_2,method_11,method_117|6.5,6.5,6.5,6.5|south korean campaigners prevent government intention to weaken unions and facilitate layoffs 1997|south korea|economic justice|defense|no|no|yes|yes
+user_159|method_11,method_117,method_5,method_116|6.5,6.5,6.5,6.5|south korean campaigners prevent government intention to weaken unions and facilitate layoffs 1997|south korea|economic justice|defense|no|no|yes|yes
+user_16|method_170,method_15,method_173,method_10|9.0,9.0,9.0,9.0|times beach residents win fight for relocation from contaminated dioxin sites|united states|economic justice|change|yes|no|no|yes
+user_160|method_2,method_117,method_159,method_163|9.0,9.0,9.0,9.0|chilean student campaign to reform education 2011|chile|human rights|change|no|yes|yes|yes
+user_165|method_97,method_3,method_162,method_51|9.5,9.5,9.5,9.5|turkish people prevent shopping mall from replacing istanbuls gezi park 2013|turkey|environment|defense|yes|yes|yes|yes
+user_167|method_2,method_3,method_4,method_139|9.0,9.0,9.0,9.0|philadelphians prevent deportation of honduran immigrant through church sanctuary united states 201415|united states|democracy|change|yes|yes|no|no
+user_17|method_8,method_38,method_47,method_2|8.0,8.0,8.0,8.0|chineseamericans protest conviction of nypd officer peter liang 2016|united states|human rights|defense|yes|no|no|no
+user_17|method_47,method_2,method_6,method_48|8.0,8.0,8.0,8.0|chineseamericans protest conviction of nypd officer peter liang 2016|united states|human rights|defense|yes|no|no|no
+user_172|method_120,method_4,method_2,method_5|4.5,4.5,4.5,4.5|romanian citizens of pungesti backed by greenpeace force chevron to stop fracking operations 2014|romania|environment|defense|no|yes|yes|yes
+user_172|method_2,method_5,method_7,method_11|4.5,4.5,4.5,4.5|romanian citizens of pungesti backed by greenpeace force chevron to stop fracking operations 2014|romania|environment|defense|no|yes|yes|yes
+user_172|method_38,method_172,method_173,method_6|4.5,4.5,4.5,4.5|romanian citizens of pungesti backed by greenpeace force chevron to stop fracking operations 2014|romania|environment|defense|no|yes|yes|yes
+user_172|method_173,method_6,method_159,method_121|4.5,4.5,4.5,4.5|romanian citizens of pungesti backed by greenpeace force chevron to stop fracking operations 2014|romania|environment|defense|no|yes|yes|yes
+user_172|method_159,method_121,method_200,method_47|4.5,4.5,4.5,4.5|romanian citizens of pungesti backed by greenpeace force chevron to stop fracking operations 2014|romania|environment|defense|no|yes|yes|yes
+user_173|method_1,method_38,method_34,method_2|9.5,9.5,9.5,9.5|pitzer college students win fossil fuel divestment 20122014|united states|environment|change|yes|no|no|no
+user_175|method_1,method_47,method_129,method_117|6.5,6.5,6.5,6.5|belgian workers strike against austerity 196061 winter strike|belgium|economic justice|change|yes|yes|yes|yes
+user_176|method_175,method_2,method_38,method_162|7.0,7.0,7.0,7.0|african americans march for civil rights in st augustine florida 196364|united states|democracy|change|yes|no|no|yes
+user_18|method_18,method_8,method_38,method_1|3.0,3.0,3.0,3.0|burmese students protest the 2014 myanmar national education law 201415|burma|democracy|change|no|no|no|yes
+user_182|method_2,method_36,method_3,method_6|9.0,9.0,9.0,9.0|pennsylvanian methodists campaign for reinstatement of minister united states 2013|united states|human rights|change|no|no|no|no
+user_185|method_47,method_173,method_172,method_16|7.5,7.5,7.5,7.5|ocean county residents and green peace resist waste dumping by cibageigy factory 1984|none|environment|change|yes|yes|no|yes
+user_187|method_187,method_172,method_4,method_6|9.0,9.0,9.0,9.0|mikmaq indigenous campaign prevents hydraulic fracturing in elsipogtog new brunswick 2013|canada|environment|defense|no|no|no|yes
+user_187|method_172,method_4,method_6,method_8|9.0,9.0,9.0,9.0|mikmaq indigenous campaign prevents hydraulic fracturing in elsipogtog new brunswick 2013|canada|environment|defense|no|no|no|yes
+user_189|method_106,method_42,method_9,method_107|4.0,4.0,4.0,4.0|united kingdom public and commercial services union strikes against cuts to civil service compensation scheme 2010|united kingdom|economic justice|defense|yes|no|no|no
+user_190|method_16,method_2,method_47,method_5|10.0,10.0,10.0,10.0|syracuse university workers strike for pay equity and job security 1998|united states|economic justice|defense|no|no|no|yes
+user_192|method_38,method_11,method_61,method_71|5.0,5.0,5.0,5.0|black students community allies begin desegregating jackson mississippi 19621963|united states|human rights|change|no|no|no|yes
+user_192|method_34,method_45,method_37,method_10|5.0,5.0,5.0,5.0|black students community allies begin desegregating jackson mississippi 19621963|united states|human rights|change|no|no|no|yes
+user_192|method_10,method_167,method_162,method_51|5.0,5.0,5.0,5.0|black students community allies begin desegregating jackson mississippi 19621963|united states|human rights|change|no|no|no|yes
+user_195|method_21,method_9,method_15,method_50|5.0,5.0,5.0,5.0|university of virginia students hunger strike for a living wage for staff 2012|united states|economic justice|change|no|no|no|no
+user_196|method_8,method_38,method_37,method_20|9.0,9.0,9.0,9.0|blacks in huntsville alabama sit in and win racial desegregation at lunch counters 1962|united states|human rights|change|no|no|no|yes
+user_199|method_195,method_50,method_159,method_173|3.0,3.0,3.0,3.0|university of california students campaign against nuclear weapons 2007|united states|peace|change|no|no|no|no
+user_199|method_159,method_173,method_47,method_1|3.0,3.0,3.0,3.0|university of california students campaign against nuclear weapons 2007|united states|peace|change|no|no|no|no
+user_199|method_1,method_137,method_162,method_2|3.0,3.0,3.0,3.0|university of california students campaign against nuclear weapons 2007|united states|peace|change|no|no|no|no
+user_201|method_32,method_5,method_38,method_57|2.0,2.0,2.0,2.0|kansas women protest antiabortion advocate governor sam brownback 2012|united states|human rights|change|no|no|no|no
+user_202|method_47,method_117,method_43,method_46|8.0,8.0,8.0,8.0|indigenous peoples in bangladesh protest to stop open pit coal mine 20062014|bangladesh|economic justice|defense|no|no|no|yes
+user_202|method_7,method_21,method_141,method_170|8.0,8.0,8.0,8.0|indigenous peoples in bangladesh protest to stop open pit coal mine 20062014|bangladesh|economic justice|defense|no|no|no|yes
+user_203|method_159,method_63,method_37,method_171|7.0,7.0,7.0,7.0|american hikers nonviolently resist iranian prison guards 20092011|iran|human rights|defense|no|no|no|yes
+user_213|method_71,method_6,method_171,method_9|10.0,10.0,10.0,10.0|greenpeace and sea shepherds force japanese seafood company nissui to sell stakes in whale hunting ships 20052006|united states|environment|defense|no|no|no|no
+user_220|method_172,method_2,method_48,method_47|10.0,10.0,10.0,10.0|connecticut residents give up national borders for lent 20122013|united states|human rights|change|yes|no|no|no
+user_220|method_47,method_37,method_20,method_1|10.0,10.0,10.0,10.0|connecticut residents give up national borders for lent 20122013|united states|human rights|change|yes|no|no|no
+user_222|method_48,method_16,method_6,method_5|9.0,9.0,9.0,9.0|students and allies force racial integration of glen echo park md 19601961|united states|human rights|change|yes|yes|no|yes
+user_223|method_174,method_21,method_175,method_33|9.0,9.0,9.0,9.0|jewish cantor and his family resist terrorism convert attacking ku klux klan leader 1991|united states|human rights|defense|no|yes|no|no
+user_226|method_177,method_9,method_4,method_171|9.0,9.0,9.0,9.0|indigenous youths and mothers force abitibiconsolidated and weyerhaeuser to stop logging grassy narrows territory in ontario 20022008|canada|environment|defense|no|no|no|yes
+user_23|method_11,method_10,method_1,method_47|10.0,10.0,10.0,10.0|black pensacola residents win relocation from escambia wood federal superfund site 19921996 |united states|economic justice|change|yes|no|no|yes
+user_230|method_117,method_107,method_106,method_3|10.0,10.0,10.0,10.0|transvaal miners general strike 1913|south africa|economic justice|defense|no|yes|yes|yes
+user_234|method_38,method_163,method_16,method_135|6.0,6.0,6.0,6.0|high point students protest for theater integration 19601964|united states|economic justice|change|no|no|yes|yes
+user_235|method_5,method_48,method_8,method_16|10.0,10.0,10.0,10.0|clean air coalition of western new york hold tonawanda coke accountable for air pollution 20052009|united states|environment|defense|yes|no|no|no
+user_236|method_16,method_6,method_179,method_175|10.0,10.0,10.0,10.0|british students force end of barclays banks investments in south african apartheid 19691987|united kingdom|economic justice|change|yes|no|no|no
+user_236|method_179,method_175,method_162,method_86|10.0,10.0,10.0,10.0|british students force end of barclays banks investments in south african apartheid 19691987|united kingdom|economic justice|change|yes|no|no|no
+user_237|method_47,method_1,method_5,method_10|8.0,8.0,8.0,8.0|wesleyan studentlabor coalition wins living wages and unionization for campus janitors 19992000|united states|economic justice|change|yes|no|no|no
+user_241|method_51,method_106,method_20,method_16|4.0,4.0,4.0,4.0|colombian miners go on 53day strike for better wages and working conditions 2013|colombia|economic justice|change|no|no|no|yes
+user_243|method_10,method_38,method_11,method_172|9.5,9.5,9.5,9.5|national campaigners join massachusetts locals to close brayton point coal plant 2013|none|environment|defense|no|no|no|yes
+user_243|method_196,method_1,method_3,method_8|9.5,9.5,9.5,9.5|national campaigners join massachusetts locals to close brayton point coal plant 2013|none|environment|defense|no|no|no|yes
+user_244|method_47,method_15,method_87,method_2|7.0,7.0,7.0,7.0|canadian mennonite conscientious objectors resist military service in second world war 193940|canada|human rights|defense|no|no|no|yes
+user_245|method_1,method_141,method_174,method_4|8.5,8.5,8.5,8.5|vancouvers downtown east side drug user community fights for supervised injection site 1990  2003|canada|human rights|change|yes|no|yes|no
+user_245|method_174,method_4,method_3,method_10|8.5,8.5,8.5,8.5|vancouvers downtown east side drug user community fights for supervised injection site 1990  2003|canada|human rights|change|yes|no|yes|no
+user_248|method_184,method_38,method_106,method_8|5.5,5.5,5.5,5.5|bangladesh factory workers protest for higher wages and better working conditions 2013|bangladesh|economic justice|change|yes|no|yes|yes
+user_249|method_5,method_120,method_7,method_8|9.0,9.0,9.0,9.0|peruvians protest silver mining project mayjune 2011|peru|environment|defense|yes|no|yes|no
+user_251|method_47,method_159,method_200,method_2|7.0,7.0,7.0,7.0|iranian refugees demand political asylum in greece 2010|greece|democracy|change|no|no|no|no
+user_252|method_10,method_2,method_3,method_4|10.0,10.0,10.0,10.0|indigenous gurindji win land rights in australia wave hill walk off 19661975 |australia|democracy|change|yes|no|no|yes
+user_256|method_47,method_141,method_8,method_38|7.0,7.0,7.0,7.0|manitoba fights for womens reproductive rights 19831986|canada|human rights|change|no|yes|no|yes
+user_259|method_18,method_8,method_124,method_7|9.0,9.0,9.0,9.0|tasmanian wilderness society blocks dam construction franklin river campaign 198183|australia|environment|change|yes|no|no|no
+user_259|method_124,method_7,method_5,method_172|9.0,9.0,9.0,9.0|tasmanian wilderness society blocks dam construction franklin river campaign 198183|australia|environment|change|yes|no|no|no
+user_259|method_199,method_1,method_37,method_38|9.0,9.0,9.0,9.0|tasmanian wilderness society blocks dam construction franklin river campaign 198183|australia|environment|change|yes|no|no|no
+user_263|method_7,method_47,method_70,method_11|3.0,3.0,3.0,3.0|colombians protest free trade agreement with united states 2006  |colombia|economic justice|defense|no|no|no|yes
+user_269|method_162,method_37,method_16,method_8|5.0,5.0,5.0,5.0|italian students protest austerity education reform gelmini decree 2010|italy|economic justice|defense|yes|no|no|no
+user_269|method_16,method_8,method_3,method_38|5.0,5.0,5.0,5.0|italian students protest austerity education reform gelmini decree 2010|italy|economic justice|defense|yes|no|no|no
+user_269|method_171,method_173,method_7,method_15|5.0,5.0,5.0,5.0|italian students protest austerity education reform gelmini decree 2010|italy|economic justice|defense|yes|no|no|no
+user_269|method_173,method_7,method_15,method_19|5.0,5.0,5.0,5.0|italian students protest austerity education reform gelmini decree 2010|italy|economic justice|defense|yes|no|no|no
+user_276|method_3,method_6,method_7,method_8|6.0,6.0,6.0,6.0|university of michigan students defend student leader against homophobic attacks by state official 2010|united states|human rights|defense|no|yes|no|no
+user_278|method_3,method_26,method_87,method_172|10.0,10.0,10.0,10.0|people of wales win recognition of welsh language from uk 1970s|united kingdom|national-ethnic identity|change|no|no|no|no
+user_28|method_47,method_38,method_1,method_5|3.5,3.5,3.5,3.5|kazakh citizens protests against land bills 2016|kazakhstan|democracy|defense|no|no|no|yes
+user_281|method_162,method_196,method_195,method_137|9.0,9.0,9.0,9.0|united mine workers of america umwa launches doublepronged attack to defend benefits 20122013|united states|economic justice|defense|yes|yes|yes|yes
+user_282|method_162,method_29,method_179,method_4|3.5,3.5,3.5,3.5|university of california students oppose tuition hike 2009|united states|economic justice|defense|no|no|no|yes
+user_289|method_35,method_47,method_86,method_38|10.0,10.0,10.0,10.0|north carolina textile workers win union recognition from j p stevens 19761980|united states|economic justice|change|no|no|no|no
+user_29|method_3,method_42,method_1,method_11|10.0,10.0,10.0,10.0|black residents of diamond win fight with shell chemical for relocation 19892002|united states|economic justice|change|no|no|no|no
+user_29|method_3,method_42,method_1,method_11|10.0,10.0,10.0,10.0|black residents of diamond win fight with shell chemical for relocation 19892002|united states|economic justice|change|no|no|no|no
+user_292|method_20,method_47,method_48,method_5|3.0,3.0,3.0,3.0|pakistanis march on islamabad against government corruption 20122013|pakistan|democracy|change|no|no|no|no
+user_292|method_48,method_5,method_38,method_158|3.0,3.0,3.0,3.0|pakistanis march on islamabad against government corruption 20122013|pakistan|democracy|change|no|no|no|no
+user_293|method_48,method_147,method_148,method_18|10.0,10.0,10.0,10.0|maldivians demand resignation of the president 2011|maldives|democracy|change|no|yes|no|yes
+user_295|method_38,method_18,method_159,method_47|7.0,7.0,7.0,7.0|palestinian prisoners hunger strike against indefinite incarceration in israeli prisons 2012|israel|human rights|change|yes|no|yes|yes
+user_296|method_8,method_47,method_38,method_16|5.0,5.0,5.0,5.0|israeli college students and politicians succeed in limiting yeshiva student stipends 2010|israel|economic justice|defense|yes|no|no|no
+user_299|method_37,method_32,method_106,method_140|8.0,8.0,8.0,8.0|brazilian laborers ganhadores strike against id tag and tax legislation 1857|brazil|economic justice|defense|no|no|yes|no
+user_300|method_166,method_179,method_162,method_51|5.0,5.0,5.0,5.0|civil rights activists campaign against de facto segregation in milwaukee schools 19641966|united states|human rights|change|no|yes|no|no
+user_301|method_105,method_37,method_38,method_34|9.0,9.0,9.0,9.0|harlan county ky coal miners win affiliation with umwa union united states 19731974|united states|economic justice|change|yes|no|yes|yes
+user_301|method_38,method_34,method_51,method_46|9.0,9.0,9.0,9.0|harlan county ky coal miners win affiliation with umwa union united states 19731974|united states|economic justice|change|yes|no|yes|yes
+user_309|method_8,method_7,method_6,method_10|9.0,9.0,9.0,9.0|ugandans save the mabira forest from sugarcane plantation 2007|uganda|environment|defense|no|no|yes|yes
+user_311|method_34,method_38,method_47,method_10|10.0,10.0,10.0,10.0|new delhi citizens protest the ruling of jessica lals murderer 2006|india|human rights|change|no|no|no|no
+user_311|method_47,method_10,method_11,method_19|10.0,10.0,10.0,10.0|new delhi citizens protest the ruling of jessica lals murderer 2006|india|human rights|change|no|no|no|no
+user_314|method_168,method_138,method_16,method_7|3.0,3.0,3.0,3.0|us immigrants drive bus across country to support rights 2012|united states|human rights|change|no|no|no|yes
+user_315|method_171,method_174,method_200,method_140|9.0,9.0,9.0,9.0|peace brigades international pbi protects and aids guatemalan mutual support group gam 19841989|guatemala|human rights|third-party nonviolent intervention|no|no|no|yes
+user_32|method_8,method_38,method_5,method_162|10.0,10.0,10.0,10.0|syracuse university students win fossil fuel divestment 20122014|united states|environment|change|no|no|no|no
+user_320|method_162,method_19,method_35,method_38|3.0,3.0,3.0,3.0|united states citizens campaign for singlepayer health care bill 20092010 |united states|economic justice|change|yes|no|no|no
+user_320|method_1,method_6,method_8,method_16|3.0,3.0,3.0,3.0|united states citizens campaign for singlepayer health care bill 20092010 |united states|economic justice|change|yes|no|no|no
+user_322|method_121,method_171,method_174,method_38|8.0,8.0,8.0,8.0|guatemalans refuse to serve in civil patrols 19881993|guatemala|democracy|change|yes|no|no|no
+user_322|method_39,method_20,method_34,method_120|8.0,8.0,8.0,8.0|guatemalans refuse to serve in civil patrols 19881993|guatemala|democracy|change|yes|no|no|no
+user_322|method_5,method_40,method_2,method_3|8.0,8.0,8.0,8.0|guatemalans refuse to serve in civil patrols 19881993|guatemala|democracy|change|yes|no|no|no
+user_323|method_6,method_166,method_163,method_21|1.0,1.0,1.0,1.0|western michigan university students campaign for a living wage united states 20062007|united states|economic justice|change|no|no|no|no
+user_324|method_1,method_48,method_34,method_6|5.0,5.0,5.0,5.0|russians campaign to save khimki forest 2010|russia|environment|defense|yes|no|yes|yes
+user_327|method_48,method_2,method_43,method_24|7.0,7.0,7.0,7.0|peace activists occupy camp casey to demand truth about iraq war united states 2005|united states|democracy|change|no|yes|no|yes
+user_329|method_159,method_141,method_27,method_38|9.0,9.0,9.0,9.0|indian citizens protest gang rape gain increased punishment for sexual assault crimes 20122013|india|human rights|change|yes|no|yes|yes
+user_330|method_173,method_162,method_50,method_38|7.0,7.0,7.0,7.0|vanderbilt students win divestment from emvest united states 20122013|united states|human rights|change|no|no|no|no
+user_330|method_162,method_50,method_38,method_9|7.0,7.0,7.0,7.0|vanderbilt students win divestment from emvest united states 20122013|united states|human rights|change|no|no|no|no
+user_333|method_23,method_38,method_117,method_47|3.0,3.0,3.0,3.0|dominicans strike for national economic reform 20032004|dominican republic|democracy|change|no|no|yes|yes
+user_34|method_28,method_32,method_122,method_47|3.0,3.0,3.0,3.0|emelle residents protest chemical waste management hazardous waste landfill 19781995|united states|economic justice|change|yes|no|no|no
+user_34|method_122,method_47,method_37,method_38|3.0,3.0,3.0,3.0|emelle residents protest chemical waste management hazardous waste landfill 19781995|united states|economic justice|change|yes|no|no|no
+user_34|method_37,method_38,method_8,method_42|3.0,3.0,3.0,3.0|emelle residents protest chemical waste management hazardous waste landfill 19781995|united states|economic justice|change|yes|no|no|no
+user_344|method_8,method_21,method_6,method_10|9.0,9.0,9.0,9.0|greenpeace stops shell oil drilling in the arctic ocean 2012|united states|environment|defense|yes|no|no|no
+user_345|method_179,method_48,method_106,method_11|9.0,9.0,9.0,9.0|hawaiian longshoremen win 177day strike in hawaii 1949|united states|economic justice|change|no|yes|yes|yes
+user_345|method_106,method_11,method_16,method_38|9.0,9.0,9.0,9.0|hawaiian longshoremen win 177day strike in hawaii 1949|united states|economic justice|change|no|yes|yes|yes
+user_346|method_172,method_7,method_38,method_159|6.0,6.0,6.0,6.0|indigenous groups in peru massively campaign to protect the rainforest 20082009|peru|democracy|defense|no|no|yes|yes
+user_349|method_106,method_104,method_39,method_5|10.0,10.0,10.0,10.0|bolivians strike and demonstrate against raised fuel prices 2010|bolivia|economic justice|defense|yes|no|yes|no
+user_352|method_103,method_8,method_38,method_105|9.0,9.0,9.0,9.0|ford female employees win strike for equal pay dagenham england 1968|england|economic justice|change|no|no|no|no
+user_354|method_97,method_116,method_6,method_48|4.0,4.0,4.0,4.0|cape area housing action committee campaigns against rent increases south africa 1982|south africa|economic justice|defense|no|no|no|no
+user_355|method_2,method_8,method_10,method_29|10.0,10.0,10.0,10.0|the green belt movement defends the karura forest in nairobi kenya 19981999|kenya|environment|defense|yes|no|yes|yes
+user_355|method_29,method_33,method_50,method_170|10.0,10.0,10.0,10.0|the green belt movement defends the karura forest in nairobi kenya 19981999|kenya|environment|defense|yes|no|yes|yes
+user_359|method_5,method_6,method_23,method_141|6.0,6.0,6.0,6.0|south african bantu women win antipass campaign in orange free state 19121918|south africa|human rights|change|yes|no|no|yes
+user_36|method_47,method_6,method_9,method_1|9.0,9.0,9.0,9.0|brown university library workers campaign to fill empty union positions 2014|united states|economic justice|defense|yes|no|no|no
+user_365|method_8,method_47,method_48,method_133|10.0,10.0,10.0,10.0|brightlingsea residents end the exportation of live animals through their town battle of brightlingsea 1995|united kingdom|environment|change|yes|no|no|no
+user_366|method_62,method_38,method_168,method_47|10.0,10.0,10.0,10.0|thai students overthrow military thanom regime 1973|thailand|democracy|change|yes|no|yes|yes
+user_367|method_10,method_39,method_8,method_106|4.0,4.0,4.0,4.0|toronto workers strike for ninehour work day printers strike canada 1872|canada|economic justice|change|yes|no|no|yes
+user_370|method_179,method_106,method_38,method_39|7.0,7.0,7.0,7.0|hawaiians strike against the sugar industry in hawaii hawaii 1946|united states|democracy|change|no|no|no|yes
+user_374|method_163,method_47,method_37,method_2|9.0,9.0,9.0,9.0|philippine citizens overthrow president joseph estrada people power ii 2001|philippines|democracy|change|no|no|no|no
+user_376|method_139,method_47,method_9,method_3|10.0,10.0,10.0,10.0|swedish workers protest threaten general strike and mutiny to prevent war against norway 1905|sweden|peace|change|no|no|no|no
+user_379|method_178,method_38,method_37,method_36|3.0,3.0,3.0,3.0|earth first protests the destruction of redwood forests redwood summer united states 1990|united states|environment|defense|no|no|no|yes
+user_381|method_2,method_1,method_35,method_7|3.0,3.0,3.0,3.0|vancouver womens caucus fights for reproductive rights abortion caravan canada 1970|canada|democracy|change|no|no|no|yes
+user_385|method_3,method_172,method_47,method_38|4.5,4.5,4.5,4.5|basotho people demand compensation for lesotho dam construction 20012005|lesotho|human rights|defense|yes|no|no|yes
+user_386|method_129,method_68,method_134,method_136|7.0,7.0,7.0,7.0|oskar and emilie schindler intervene to save jews from nazi genocide poland 19391945|poland|human rights|third-party nonviolent intervention|no|no|no|no
+user_388|method_124,method_1,method_153,method_137|2.0,2.0,2.0,2.0|moldovan citizens campaign for new elections 2009|moldova|democracy|change|yes|yes|yes|yes
+user_389|method_6,method_9,method_16,method_8|4.0,4.0,4.0,4.0|isle of wight vestas workers sitin against plant closure 2009|united kingdom|economic justice|defense|yes|no|no|no
+user_395|method_65,method_87,method_117,method_10|10.0,10.0,10.0,10.0|pakistani students workers and peasants bring down a dictator 19681969|pakistan|democracy|change|no|yes|yes|yes
+user_395|method_117,method_10,method_18,method_16|10.0,10.0,10.0,10.0|pakistani students workers and peasants bring down a dictator 19681969|pakistan|democracy|change|no|yes|yes|yes
+user_40|method_1,method_173,method_36,method_21|7.0,7.0,7.0,7.0|brown university students support library workers bid to win contract rhode island 2010|united states|human rights|defense|yes|no|no|no
+user_401|method_97,method_48,method_38,method_141|9.0,9.0,9.0,9.0|ecuadorians oust president gutiérrez rebellion of the forajidos 2005 |ecuador|democracy|change|yes|no|yes|yes
+user_403|method_97,method_62,method_47,method_38|3.0,3.0,3.0,3.0|yugoslav students occupy university of belgrade for democracy and human rights 1968|serbia|democracy|change|no|no|yes|no
+user_408|method_5,method_162,method_3,method_107|9.0,9.0,9.0,9.0|liverpool england dockers win strike with major international support 19951998|united kingdom|economic justice|defense|yes|no|yes|no
+user_41|method_45,method_38,method_25,method_19|6.0,6.0,6.0,6.0|aids activists act up demand federal funding for needle exchange programs 19971998|united states|economic justice|change|no|no|no|no
+user_410|method_137,method_38,method_32,method_133|10.0,10.0,10.0,10.0|sarayaku people successfully defend their land against oil extraction ecuador 19962012|ecuador|environment|defense|no|no|yes|yes
+user_413|method_4,method_9,method_172,method_45|10.0,10.0,10.0,10.0|native american and environmentalist groups block nuclear waste site in ward valley california 19952000|united states|environment|defense|no|no|no|no
+user_414|method_47,method_86,method_171,method_23|9.0,9.0,9.0,9.0|rainforest action network defends forests climate against citigroup 20002004|united states|environment|defense|yes|yes|no|yes
+user_416|method_162,method_7,method_26,method_16|9.0,9.0,9.0,9.0|rainforest action network defends indonesias people forests orangutans against general mills 2010|united states|environment|defense|no|no|no|no
+user_416|method_26,method_16,method_15,method_47|9.0,9.0,9.0,9.0|rainforest action network defends indonesias people forests orangutans against general mills 2010|united states|environment|defense|no|no|no|no
+user_417|method_38,method_48,method_117,method_9|7.0,7.0,7.0,7.0|canadian workers strike against wage controls 1976|canada|economic justice|change|no|no|no|no
+user_418|method_162,method_8,method_3,method_2|9.0,9.0,9.0,9.0|south korean activists win rights in seoul for lesbian gay bisexual and transgendered students 20112012|south korea|human rights|change|yes|no|no|no
+user_422|method_5,method_34,method_21,method_6|9.0,9.0,9.0,9.0|harvard students campaign for a living wage 19982002|united states|economic justice|change|yes|no|no|no
+user_422|method_50,method_37,method_36,method_31|9.0,9.0,9.0,9.0|harvard students campaign for a living wage 19982002|united states|economic justice|change|yes|no|no|no
+user_423|method_7,method_38,method_34,method_47|9.0,9.0,9.0,9.0|lucknow protesters win justice in meher bhargava murder case india 2006|india|democracy|defense|yes|no|no|no
+user_424|method_8,method_51,method_48,method_38|8.5,8.5,8.5,8.5| chilean high school students strike win education reform penguin revolution 2006|chile|economic justice|change|no|no|yes|yes
+user_428|method_136,method_141,method_134,method_121|9.0,9.0,9.0,9.0|french christians save jews from nazi holocaust le chambon 19401944|france|human rights|defense|no|no|no|yes
+user_429|method_5,method_8,method_37,method_172|6.0,6.0,6.0,6.0|nigerian ekpan women protest against oil company policies 1986|nigeria|economic justice|defense|no|no|no|no
+user_43|method_10,method_11,method_18,method_23|10.0,10.0,10.0,10.0|australian citizens force end to nations military participation in vietnam war through vietnam moratorium campaign 19701971|australia|democracy|change|yes|no|yes|yes
+user_431|method_168,method_104,method_5,method_3|8.0,8.0,8.0,8.0|gambian lawyers protest arrest of fellow lawyer 2011|gambia|human rights|defense|no|no|no|yes
+user_435|method_8,method_106,method_117,method_3|10.0,10.0,10.0,10.0|belgians prevent king leopold iii from resuming the throne 1950|belgium|democracy|defense|no|no|no|yes
+user_436|method_38,method_37,method_8,method_48|10.0,10.0,10.0,10.0|kansas miners strike and women march for industrial freedom 192122|united states|human rights|defense|no|no|yes|yes
+user_436|method_3,method_106,method_1,method_10|10.0,10.0,10.0,10.0|kansas miners strike and women march for industrial freedom 192122|united states|human rights|defense|no|no|yes|yes
+user_44|method_47,method_138,method_1,method_14|9.0,9.0,9.0,9.0|university of oregon students win divestment from fossil fuels 20132016|united states|environment|change|yes|no|no|no
+user_440|method_18,method_36,method_37,method_38|5.5,5.5,5.5,5.5|south koreans protest against the mishandling of the deaths of two korean students caused by us army 20022004|south korea|democracy|defense|yes|no|yes|no
+user_440|method_196,method_7,method_34,method_1|5.5,5.5,5.5,5.5|south koreans protest against the mishandling of the deaths of two korean students caused by us army 20022004|south korea|democracy|defense|yes|no|yes|no
+user_441|method_8,method_6,method_62,method_51|4.0,4.0,4.0,4.0|students and doctors protest reservatioffirmativeaction system in india 20062008|india|democracy|change|no|yes|no|yes
+user_441|method_62,method_51,method_47,method_38|4.0,4.0,4.0,4.0|students and doctors protest reservatioffirmativeaction system in india 20062008|india|democracy|change|no|yes|no|yes
+user_441|method_47,method_38,method_34,method_24|4.0,4.0,4.0,4.0|students and doctors protest reservatioffirmativeaction system in india 20062008|india|democracy|change|no|yes|no|yes
+user_447|method_2,method_4,method_32,method_6|10.0,10.0,10.0,10.0|germans reclaim heligoland from the united kingdom 1951|germany|national-ethnic identity|change|no|no|no|yes
+user_449|method_116,method_7,method_38,method_105|8.0,8.0,8.0,8.0|durban south africa workers mass strike for a raise in wages 1973|south africa|economic justice|change|no|no|no|no
+user_450|method_171,method_140,method_19,method_18|5.0,5.0,5.0,5.0|foreigners establish safety zone and intervene to save civilians during nanking massacre 19371938|china|peace|third-party nonviolent intervention|no|no|no|yes
+user_451|method_3,method_47,method_162,method_38|5.0,5.0,5.0,5.0|german students campaign for democracy 196668 |germany|democracy|change|no|no|no|no
+user_456|method_172,method_7,method_19,method_9|9.0,9.0,9.0,9.0|chinese residents and students stop petrochemical plant expansion in ningbo 2012|china|environment|defense|yes|no|yes|yes
+user_458|method_97,method_106,method_138,method_172|4.0,4.0,4.0,4.0|korean women textile workers fight for fair union election 19761978|south korea|democracy|defense|yes|yes|no|no
+user_459|method_141,method_171,method_173,method_172|7.0,7.0,7.0,7.0|pare people in tanzania defeat new tax system 194546|tanzania|economic justice|defense|no|no|yes|yes
+user_459|method_101,method_90,method_47,method_38|7.0,7.0,7.0,7.0|pare people in tanzania defeat new tax system 194546|tanzania|economic justice|defense|no|no|yes|yes
+user_459|method_47,method_38,method_37,method_7|7.0,7.0,7.0,7.0|pare people in tanzania defeat new tax system 194546|tanzania|economic justice|defense|no|no|yes|yes
+user_459|method_6,method_3,method_2,method_1|7.0,7.0,7.0,7.0|pare people in tanzania defeat new tax system 194546|tanzania|economic justice|defense|no|no|yes|yes
+user_46|method_48,method_3,method_38,method_162|9.0,9.0,9.0,9.0|university of mary washington students win fossil fuel divestment 20152016|united states|environment|change|no|no|no|yes
+user_461|method_120,method_47,method_1,method_5|10.0,10.0,10.0,10.0|university of virginia community acts to reinstate ousted president us 2012|united states|democracy|defense|yes|no|no|no
+user_461|method_4,method_3,method_127,method_8|10.0,10.0,10.0,10.0|university of virginia community acts to reinstate ousted president us 2012|united states|democracy|defense|yes|no|no|no
+user_462|method_47,method_38,method_16,method_8|6.0,6.0,6.0,6.0|university of maryland students protest firing of diversity officer 2009|united states|human rights|defense|no|no|no|no
+user_468|method_57,method_37,method_11,method_48|5.0,5.0,5.0,5.0|colombian women use sex strike to demand gangster disarmament huelga de piernas cruzadas 2006|colombia|peace|change|no|no|no|yes
+user_469|method_16,method_33,method_159,method_122|8.0,8.0,8.0,8.0|south korean workers campaign against apparel sweatshop conditions in pyunghwa market 19691970|south korea|economic justice|change|yes|no|no|no
+user_47|method_162,method_16,method_1,method_50|10.0,10.0,10.0,10.0|university of massachusetts students win fossil fuel divestment 20122016|united states|environment|change|no|no|no|yes
+user_471|method_3,method_47,method_62,method_117|7.0,7.0,7.0,7.0|peruvian students campaign against government for university reform 1919|peru|democracy|change|yes|no|no|yes
+user_474|method_47,method_38,method_8,method_7|4.0,4.0,4.0,4.0|tibetan students campaign to defend tibetan language in schools tibet and china 2010|tibet|national-ethnic identity|defense|yes|no|no|yes
+user_476|method_6,method_162,method_97,method_51|9.0,9.0,9.0,9.0|j1 student guest workers protest working conditions justice at hersheys united states 2011|united states|economic justice|change|no|no|no|yes
+user_48|method_8,method_35,method_41,method_48|9.0,9.0,9.0,9.0|massachusetts residents block construction of kinder morgan northeast energy direct pipeline 20142016|united states|environment|change|yes|no|no|no
+user_48|method_42,method_121,method_62,method_51|9.0,9.0,9.0,9.0|massachusetts residents block construction of kinder morgan northeast energy direct pipeline 20142016|united states|environment|change|yes|no|no|no
+user_48|method_34,method_24,method_163,method_162|9.0,9.0,9.0,9.0|massachusetts residents block construction of kinder morgan northeast energy direct pipeline 20142016|united states|environment|change|yes|no|no|no
+user_480|method_5,method_71,method_47,method_1|5.0,5.0,5.0,5.0|ghanaians boycott european goods 1948|ghana|economic justice|change|no|no|no|no
+user_481|method_10,method_19,method_9,method_62|10.0,10.0,10.0,10.0|quebec students defeat tuition hikes and fight for free education 20102012|canada|democracy|defense|no|no|yes|yes
+user_481|method_9,method_62,method_47,method_38|10.0,10.0,10.0,10.0|quebec students defeat tuition hikes and fight for free education 20102012|canada|democracy|defense|no|no|yes|yes
+user_482|method_141,method_37,method_6,method_36|8.0,8.0,8.0,8.0|south korean ngos defy corrupt politicians gain greater democracy 2000|south korea|democracy|change|yes|yes|no|yes
+user_482|method_47,method_39,method_1,method_3|8.0,8.0,8.0,8.0|south korean ngos defy corrupt politicians gain greater democracy 2000|south korea|democracy|change|yes|yes|no|yes
+user_482|method_7,method_8,method_9,method_16|8.0,8.0,8.0,8.0|south korean ngos defy corrupt politicians gain greater democracy 2000|south korea|democracy|change|yes|yes|no|yes
+user_482|method_8,method_9,method_16,method_19|8.0,8.0,8.0,8.0|south korean ngos defy corrupt politicians gain greater democracy 2000|south korea|democracy|change|yes|yes|no|yes
+user_483|method_172,method_159,method_144,method_105|9.0,9.0,9.0,9.0|peruvian copper miners win freeport strike 2011|peru|economic justice|change|yes|no|yes|yes
+user_484|method_9,method_47,method_25,method_62|9.0,9.0,9.0,9.0|haitians strike and overthrow a dictator 1956|haiti|democracy|change|no|no|yes|no
+user_484|method_85,method_117,method_119,method_150|9.0,9.0,9.0,9.0|haitians strike and overthrow a dictator 1956|haiti|democracy|change|no|no|yes|no
+user_486|method_54,method_48,method_47,method_38|10.0,10.0,10.0,10.0|gallaudet university students protest for a deaf university president deaf president now 1988|united states|human rights|change|yes|no|no|no
+user_490|method_13,method_97,method_8,method_6|7.0,7.0,7.0,7.0|african fishermen and greenpeace win better international fishing practices 20112012|mauritania|economic justice|defense|yes|no|yes|yes
+user_493|method_117,method_106,method_105,method_98|6.0,6.0,6.0,6.0|peru workers use general strike to gain 8hour work day 1919|peru|economic justice|change|no|no|no|yes
+user_498|method_104,method_159,method_5,method_37|3.0,3.0,3.0,3.0|turkish cypriots campaign for european union membership of cyprus 20022003|cyprus|national-ethnic identity|change|yes|yes|no|yes
+user_498|method_37,method_18,method_34,method_38|3.0,3.0,3.0,3.0|turkish cypriots campaign for european union membership of cyprus 20022003|cyprus|national-ethnic identity|change|yes|yes|no|yes
+user_499|method_8,method_16,method_23,method_38|10.0,10.0,10.0,10.0|international groups boycott nestle products to end indiscriminate advertising 19771984|canada|human rights|change|no|no|no|no
+user_499|method_71,method_50,method_9,method_6|10.0,10.0,10.0,10.0|international groups boycott nestle products to end indiscriminate advertising 19771984|canada|human rights|change|no|no|no|no
+user_5|method_38,method_47,method_24,method_34|10.0,10.0,10.0,10.0|south koreans demonstrate for president park guenhyes resignation candlelight revolution 20162017|south korea|democracy|change|no|no|no|no
+user_50|method_21,method_47,method_38,method_25|8.0,8.0,8.0,8.0|rio de janeiro residents protest mans disappearance 2013|brazil|human rights|change|no|no|yes|yes
+user_501|method_47,method_25,method_124,method_126|5.5,5.5,5.5,5.5|moroccan youth protest for constitutional reform 2011|morocco|democracy|change|yes|no|yes|yes
+user_503|method_8,method_172,method_47,method_38|9.0,9.0,9.0,9.0|bolivians successfully oust military regime 1982|bolivia|democracy|change|no|no|yes|no
+user_507|method_148,method_120,method_48,method_47|10.0,10.0,10.0,10.0|yemenis oust saleh regime yemen revolution 20112012|yemen|democracy|change|no|yes|no|no
+user_508|method_167,method_71,method_38,method_9|10.0,10.0,10.0,10.0|coalition of immokalee workers demand fair food agreement from chipotle restaurant 20062012|united states|economic justice|change|yes|no|no|no
+user_508|method_38,method_9,method_8,method_3|10.0,10.0,10.0,10.0|coalition of immokalee workers demand fair food agreement from chipotle restaurant 20062012|united states|economic justice|change|yes|no|no|no
+user_509|method_38,method_18,method_8,method_199|9.0,9.0,9.0,9.0|nepalese force king to accept democratic reform jana andolan peoples movement 1990|nepal|democracy|change|yes|yes|yes|yes
+user_510|method_50,method_47,method_52,method_173|8.0,8.0,8.0,8.0|university of iowa students campaign against sweatshops 2000|united states|economic justice|change|yes|no|no|no
+user_510|method_52,method_173,method_11,method_15|8.0,8.0,8.0,8.0|university of iowa students campaign against sweatshops 2000|united states|economic justice|change|yes|no|no|no
+user_513|method_5,method_16,method_2,method_162|8.0,8.0,8.0,8.0|austin tx us students sitin for desegregated lunch counters austin movement 19591961|united states|human rights|change|yes|no|no|no
+user_514|method_37,method_36,method_2,method_19|6.0,6.0,6.0,6.0|native americans occupy alcatraz for land rights 19691971|united states|economic justice|change|yes|no|no|no
+user_515|method_159,method_162,method_122,method_38|10.0,10.0,10.0,10.0|ukrainian students hunger strike and protest against government 1990|ukraine|democracy|change|yes|no|no|no
+user_516|method_138,method_47,method_38,method_6|10.0,10.0,10.0,10.0|activists defeat proposal to build new immigration detention center near chicago 2012|united states|human rights|defense|yes|no|no|no
+user_517|method_21,method_6,method_47,method_37|1.5,1.5,1.5,1.5|yale university students protest sweatshop labor 2000|united states|human rights|change|no|no|no|no
+user_518|method_47,method_38,method_37,method_36|7.5,7.5,7.5,7.5|peace camps in quebec and manitoba to support the mohawks in the oka crisis canada 1990|canada|human rights|defense|no|no|no|no
+user_520|method_3,method_6,method_9,method_1|5.0,5.0,5.0,5.0|new york transgender community protests transphobic film 2010|united states|human rights|change|no|no|no|no
+user_521|method_6,method_170,method_8,method_47|10.0,10.0,10.0,10.0|cambodians win release of prisoners taken during nonviolent invasion to defend neighborhood 2012|cambodia|human rights|defense|yes|no|no|yes
+user_522|method_9,method_10,method_5,method_105|10.0,10.0,10.0,10.0|cambodian migrant workers strike at phatthana seafood factory|thailand|economic justice|change|yes|no|no|yes
+user_522|method_105,method_6,method_4,method_2|10.0,10.0,10.0,10.0|cambodian migrant workers strike at phatthana seafood factory|thailand|economic justice|change|yes|no|no|yes
+user_524|method_171,method_21,method_16,method_15|6.0,6.0,6.0,6.0|chester residents blockade westinghouse incinerator united states 19921994|united states|environment|defense|no|no|no|no
+user_525|method_9,method_47,method_48,method_62|8.0,8.0,8.0,8.0|mexican students defend public education at unam 1999|mexico|economic justice|defense|no|yes|yes|no
+user_528|method_34,method_47,method_18,method_8|6.0,6.0,6.0,6.0|tamil diaspora protests in toronto against sri lankan civil war 2009|canada|human rights|change|no|no|yes|yes
+user_529|method_52,method_47,method_19,method_8|4.0,4.0,4.0,4.0|rochester city school district students campaign against budget cuts to arts programs 2010|united states|economic justice|defense|no|no|no|no
+user_53|method_104,method_61,method_44,method_34|6.0,6.0,6.0,6.0|rio de janeiro residents protest world cup and olympics 20112016|brazil|democracy|change|no|no|yes|yes
+user_53|method_44,method_34,method_174,method_25|6.0,6.0,6.0,6.0|rio de janeiro residents protest world cup and olympics 20112016|brazil|democracy|change|no|no|yes|yes
+user_53|method_24,method_20,method_19,method_4|6.0,6.0,6.0,6.0|rio de janeiro residents protest world cup and olympics 20112016|brazil|democracy|change|no|no|yes|yes
+user_530|method_16,method_105,method_131,method_30|6.5,6.5,6.5,6.5|newfoundland loggers strike win better working conditions 195859|canada|economic justice|change|yes|no|no|yes
+user_533|method_2,method_196,method_171,method_172|8.0,8.0,8.0,8.0|british columbia locals save ancient forest remnant from destruction canada 20042006|canada|environment|defense|no|no|no|no
+user_535|method_183,method_173,method_20,method_8|9.0,9.0,9.0,9.0|landless workers win land rights in nova ronda alta brazil 19821984|brazil|democracy|change|yes|no|no|yes
+user_539|method_35,method_122,method_131,method_32|10.0,10.0,10.0,10.0|serbians win reinstatement of elected opposition members 19961997|serbia|democracy|defense|yes|yes|yes|yes
+user_539|method_32,method_40,method_38,method_11|10.0,10.0,10.0,10.0|serbians win reinstatement of elected opposition members 19961997|serbia|democracy|defense|yes|yes|yes|yes
+user_54|method_97,method_38,method_1,method_16|9.0,9.0,9.0,9.0|harvard university dining services workers strike and win higher salary 2016|united states|democracy|change|no|no|no|no
+user_542|method_106,method_6,method_37,method_159|10.0,10.0,10.0,10.0|ahmedabad textile laborers win strike for economic justice 1918|india|economic justice|defense|no|yes|no|no
+user_544|method_87,method_133,method_121,method_32|9.0,9.0,9.0,9.0|congolese win independence from the belgian empire 195960 |democratic republic of the congo|democracy|change|yes|no|yes|yes
+user_549|method_47,method_6,method_20,method_34|9.0,9.0,9.0,9.0|canadian first nations people protect water from dumpsite 2009|canada|environment|defense|yes|no|no|no
+user_55|method_171,method_5,method_41,method_38|7.5,7.5,7.5,7.5|new zealand declares nuclear free zone 19631985|new zealand|environment|change|no|no|no|yes
+user_551|method_38,method_8,method_5,method_2|4.0,4.0,4.0,4.0|niger women campaign for inclusion in national assembly 1991|niger|democracy|change|no|no|no|no
+user_551|method_38,method_8,method_5,method_2|4.0,4.0,4.0,4.0|niger women campaign for inclusion in national assembly 1991|niger|democracy|change|no|no|no|no
+user_554|method_8,method_47,method_7,method_121|5.0,5.0,5.0,5.0|hondurans campaign for democracy 1944|honduras|democracy|change|yes|no|no|yes
+user_555|method_121,method_4,method_6,method_7|4.0,4.0,4.0,4.0|brazilian indigenous protest construction of belo monte dam on xingu river in brazilian amazon 20082011|brazil|environment|defense|no|no|no|no
+user_558|method_2,method_48,method_9,method_11|9.0,9.0,9.0,9.0|winnipeg community members prevent overpass construction 19791981|canada|economic justice|defense|no|no|no|no
+user_559|method_10,method_11,method_27,method_6|8.0,8.0,8.0,8.0|environmentalists and reverend billy defend canadian boreal forest against victorias secret 20042006|united states|environment|defense|no|no|no|no
+user_559|method_39,method_9,method_32,method_1|8.0,8.0,8.0,8.0|environmentalists and reverend billy defend canadian boreal forest against victorias secret 20042006|united states|environment|defense|no|no|no|no
+user_56|method_6,method_7,method_8,method_19|9.0,9.0,9.0,9.0|students press university of glasgow to divest from fossil fuels 20132014|united kingdom|environment|change|no|no|no|no
+user_560|method_56,method_141,method_13,method_6|8.0,8.0,8.0,8.0|thai people successfully defend democracy against military coup 1992|thailand|democracy|defense|yes|no|yes|no
+user_567|method_47,method_35,method_2,method_1|6.0,6.0,6.0,6.0|canadian environmentalists campaign against seal hunting 2009|canada|environment|change|yes|no|no|no
+user_568|method_38,method_37,method_22,method_20|6.0,6.0,6.0,6.0|sons of freedom doukhobors of saskatchewan win communal landholding canada 19001907|canada|national-ethnic identity|defense|no|yes|no|yes
+user_568|method_6,method_5,method_2,method_48|6.0,6.0,6.0,6.0|sons of freedom doukhobors of saskatchewan win communal landholding canada 19001907|canada|national-ethnic identity|defense|no|yes|no|yes
+user_569|method_47,method_1,method_3,method_13|4.0,4.0,4.0,4.0|miami college students march to us capitol in support of immigrant rights trail of dreams 2010|united states|democracy|change|no|yes|no|no
+user_573|method_63,method_173,method_11,method_18|3.0,3.0,3.0,3.0|cambodias dey krahorm villagers resist forced eviction 20052009|cambodia|economic justice|defense|yes|no|no|yes
+user_573|method_11,method_18,method_25,method_135|3.0,3.0,3.0,3.0|cambodias dey krahorm villagers resist forced eviction 20052009|cambodia|economic justice|defense|yes|no|no|yes
+user_576|method_6,method_5,method_16,method_9|5.0,5.0,5.0,5.0|greenpeace pressures apple for less toxic products 20062007|united states|environment|change|no|no|no|no
+user_578|method_61,method_107,method_47,method_62|4.0,4.0,4.0,4.0|uc santa cruz students and employees campaign for diversity and economic justice 200509|united states|economic justice|change|no|no|no|no
+user_58|method_3,method_8,method_200,method_1|1.0,1.0,1.0,1.0|paul robeson high school students in new york campaign against closing 20092011|united states|human rights|defense|no|no|no|no
+user_582|method_10,method_2,method_16,method_38|7.0,7.0,7.0,7.0|bucknell university students campaign for living wage 2001|united states|economic justice|change|yes|no|no|no
+user_587|method_48,method_10,method_1,method_34|8.0,8.0,8.0,8.0|spelman college students win divestment from apartheid south africa 19781986|united states|economic justice|change|yes|no|no|no
+user_591|method_10,method_179,method_2,method_180|3.0,3.0,3.0,3.0|outside observers campaign for prison reform at walpole prison us 1973|united states|human rights|change|yes|no|no|no
+user_593|method_8,method_6,method_2,method_1|10.0,10.0,10.0,10.0|michigan state university activists win divestment from apartheid south africa 1978|united states|human rights|change|yes|no|no|no
+user_595|method_50,method_2,method_47,method_34|4.0,4.0,4.0,4.0|university of california berkeley students campaign for divestment from israel 2010|united states|human rights|change|no|no|no|no
+user_597|method_13,method_15,method_34,method_6|7.0,7.0,7.0,7.0|guatemalan activists defend human rights 19601995|guatemala|human rights|defense|no|no|no|no
+user_598|method_5,method_6,method_4,method_38|8.0,8.0,8.0,8.0|pakistanis win change in national rape and sex laws 20022006|pakistan|human rights|change|no|no|no|no
+user_599|method_162,method_47,method_8,method_172|6.0,6.0,6.0,6.0|chinese peasants campaign for food and price controls jiangsu province 1748|china|economic justice|change|yes|yes|no|yes
+user_6|method_37,method_9,method_7,method_175|8.0,8.0,8.0,8.0|columbia university students win divestment from private prison companies 20142015|united states|human rights|change|no|yes|no|no
+user_600|method_40,method_38,method_20,method_7|10.0,10.0,10.0,10.0|chinese elites and commoners use city gods and direct action to hasten flood relief qing china 1742|china|economic justice|change|yes|no|no|no
+user_601|method_39,method_42,method_2,method_6|6.0,6.0,6.0,6.0|malaysian bicycle campaign for government reform jerit cycling for change campaign 2008|malaysia|democracy|change|yes|no|no|no
+user_601|method_9,method_11,method_18,method_19|6.0,6.0,6.0,6.0|malaysian bicycle campaign for government reform jerit cycling for change campaign 2008|malaysia|democracy|change|yes|no|no|no
+user_602|method_122,method_158,method_13,method_11|6.0,6.0,6.0,6.0|the bolivian cidob launches sixth indigenous march for autonomy  rights 2007|bolivia|economic justice|change|no|no|no|yes
+user_603|method_48,method_62,method_97,method_173|10.0,10.0,10.0,10.0|french youth and unions general strike defeat new employment law 2006|france|economic justice|defense|yes|no|yes|yes
+user_603|method_97,method_173,method_3,method_117|10.0,10.0,10.0,10.0|french youth and unions general strike defeat new employment law 2006|france|economic justice|defense|yes|no|yes|yes
+user_607|method_47,method_26,method_7,method_8|3.0,3.0,3.0,3.0|british printers strike for their jobs unions wapping dispute 19861987|united kingdom|economic justice|defense|no|no|yes|yes
+user_607|method_16,method_36,method_171,method_80|3.0,3.0,3.0,3.0|british printers strike for their jobs unions wapping dispute 19861987|united kingdom|economic justice|defense|no|no|yes|yes
+user_608|method_3,method_1,method_122,method_34|5.0,5.0,5.0,5.0|international team campaigns against nuclear testing in africa sahara protest 19591960|ghana|environment|defense|yes|no|no|yes
+user_612|method_34,method_1,method_10,method_9|10.0,10.0,10.0,10.0|australian women protest conscription during vietnam war save our sons sos 19651972|australia|democracy|change|no|no|no|yes
+user_612|method_10,method_9,method_19,method_11|10.0,10.0,10.0,10.0|australian women protest conscription during vietnam war save our sons sos 19651972|australia|democracy|change|no|no|no|yes
+user_614|method_20,method_18,method_8,method_5|9.0,9.0,9.0,9.0|native americans walk from san francisco to washington dc for us civil rights 1978|united states|economic justice|defense|yes|no|no|no
+user_614|method_177,method_48,method_7,method_1|9.0,9.0,9.0,9.0|native americans walk from san francisco to washington dc for us civil rights 1978|united states|economic justice|defense|yes|no|no|no
+user_615|method_104,method_38,method_48,method_172|5.0,5.0,5.0,5.0|bolivian salaried workers win higher wages 2011|bolivia|economic justice|change|no|no|no|yes
+user_618|method_8,method_7,method_3,method_47|10.0,10.0,10.0,10.0|french citizens block private school reform bill 1984|france|democracy|defense|yes|no|yes|yes
+user_62|method_48,method_172,method_47,method_8|7.5,7.5,7.5,7.5|indian muzaras refuse to pay landlords and demand restoration of property 19301953 |india|economic justice|change|no|no|yes|yes
+user_62|method_48,method_172,method_47,method_8|7.5,7.5,7.5,7.5|indian muzaras refuse to pay landlords and demand restoration of property 19301953 |india|economic justice|change|no|no|yes|yes
+user_621|method_10,method_3,method_38,method_97|8.0,8.0,8.0,8.0|bolivian journalists protect freedom of expression 2010|bolivia|democracy|defense|yes|no|no|no
+user_621|method_38,method_97,method_104,method_2|8.0,8.0,8.0,8.0|bolivian journalists protect freedom of expression 2010|bolivia|democracy|defense|yes|no|no|no
+user_628|method_137,method_173,method_199,method_7|8.0,8.0,8.0,8.0|new yorkers occupy engine company 212 peoples firehouse 19751977|united states|democracy|defense|no|no|no|yes
+user_63|method_47,method_48,method_19,method_18|3.5,3.5,3.5,3.5|russian dissenters fight for the right to assemble 20092014|russia|democracy|defense|yes|no|yes|yes
+user_630|method_38,method_47,method_162,method_37|10.0,10.0,10.0,10.0|chinese middle class protesters challenge chemical plant in dalian 2011|china|environment|defense|yes|no|yes|yes
+user_631|method_16,method_62,method_6,method_9|4.0,4.0,4.0,4.0|ethiopian students protest against emperor selaisses regime 19671974|ethiopia|democracy|change|yes|no|yes|yes
+user_631|method_162,method_2,method_107,method_47|4.0,4.0,4.0,4.0|ethiopian students protest against emperor selaisses regime 19671974|ethiopia|democracy|change|yes|no|yes|yes
+user_632|method_7,method_57,method_159,method_38|9.0,9.0,9.0,9.0|colombian women use sex strike to pressure government to repair road huelga de piernas cruzadas 2011|colombia|human rights|change|no|no|no|no
+user_634|method_114,method_16,method_38,method_51|5.5,5.5,5.5,5.5|african american auto workers strike for union democracy and better working conditions drum 19681970|united states|democracy|change|no|no|yes|yes
+user_636|method_16,method_37,method_178,method_8|3.0,3.0,3.0,3.0|christian peacemaker team protests war toys united states and canada 19922008|canada|peace|change|no|no|no|no
+user_638|method_71,method_6,method_5,method_106|3.0,3.0,3.0,3.0|manchester workers campaign for economic equality and political representation peterloo massacre 18171820|united kingdom|democracy|change|no|no|no|yes
+user_638|method_37,method_7,method_38,method_9|3.0,3.0,3.0,3.0|manchester workers campaign for economic equality and political representation peterloo massacre 18171820|united kingdom|democracy|change|no|no|no|yes
+user_640|method_159,method_48,method_38,method_3|5.0,5.0,5.0,5.0|mexicans in chihuahua protest electoral fraud 19851988|mexico|democracy|change|yes|no|no|yes
+user_641|method_2,method_177,method_5,method_15|9.0,9.0,9.0,9.0|georgetown university students catalyze win for living wage for university workers 20012006|united states|economic justice|change|yes|no|no|no
+user_641|method_8,method_16,method_36,method_38|9.0,9.0,9.0,9.0|georgetown university students catalyze win for living wage for university workers 20012006|united states|economic justice|change|yes|no|no|no
+user_646|method_37,method_44,method_7,method_47|10.0,10.0,10.0,10.0|egyptian workers strike and occupy textile factory for better pay representation and conditions 2007|egypt|democracy|change|no|no|no|yes
+user_649|method_16,method_98,method_105,method_7|6.0,6.0,6.0,6.0|walmart warehouse workers strike to end poor working conditions elwood illinois usa 2012|united states|economic justice|change|no|no|no|yes
+user_65|method_172,method_173,method_188,method_164|9.0,9.0,9.0,9.0|french farmers protest falling food prices julyseptember 2015|france|economic justice|change|yes|no|no|no
+user_653|method_48,method_97,method_117,method_3|10.0,10.0,10.0,10.0|ecuadorians general strike and protest to oust president abdala bucaram 1997|ecuador|democracy|change|yes|yes|no|yes
+user_654|method_9,method_56,method_125,method_48|10.0,10.0,10.0,10.0|egyptians campaign for independence 19191922|egypt|democracy|change|yes|yes|yes|no
+user_66|method_7,method_110,method_117,method_3|10.0,10.0,10.0,10.0|estonian healthcare workers strike for higher wages and reduced workloads 2012|estonia|economic justice|change|no|no|no|no
+user_660|method_20,method_7,method_63,method_1|5.0,5.0,5.0,5.0|shanti sena indian peace brigade intervenes in deadly hindumuslim riots ahmedabad 1969|india|peace|third-party nonviolent intervention|yes|no|no|no
+user_661|method_191,method_179,method_71,method_48|9.0,9.0,9.0,9.0|african american passengers boycott segregated buses in baton rouge 1953|united states|economic justice|change|no|yes|no|no
+user_663|method_6,method_1,method_8,method_20|8.0,8.0,8.0,8.0|us civil rights activists campaign for federal government action 195763|united states|economic justice|change|yes|no|no|no
+user_667|method_1,method_3,method_4,method_47|10.0,10.0,10.0,10.0|larzac peasants campaign to block expansion of military camp the battle of larzac 19711981|france|environment|defense|yes|no|yes|no
+user_668|method_12,method_38,method_8,method_15|8.0,8.0,8.0,8.0|residents protest gain closure of vermont yankee nuclear power plant usa 20052013|united states|environment|change|yes|yes|no|yes
+user_67|method_172,method_47,method_18,method_173|7.0,7.0,7.0,7.0|russian pensioners reverse welfare cuts|russia|economic justice|change|yes|no|no|yes
+user_670|method_7,method_38,method_172,method_171|8.0,8.0,8.0,8.0|german environmentalists hold in place nuclear phaseout plan 20082011|germany|environment|defense|yes|no|yes|yes
+user_673|method_117,method_162,method_159,method_9|6.5,6.5,6.5,6.5|basque citizens end construction of lemoniz nuclear power plant 19761978|spain|environment|defense|yes|no|yes|yes
+user_673|method_7,method_6,method_4,method_2|6.5,6.5,6.5,6.5|basque citizens end construction of lemoniz nuclear power plant 19761978|spain|environment|defense|yes|no|yes|yes
+user_674|method_178,method_6,method_172,method_173|10.0,10.0,10.0,10.0|greenpeace stops kimberlyclarks destruction of the boreal forest in canada kleercut 20042009|canada|environment|defense|no|no|no|yes
+user_679|method_182,method_8,method_10,method_39|8.0,8.0,8.0,8.0|solidarność solidarity brings down the communist government of poland 198889|poland|democracy|change|no|no|no|yes
+user_68|method_18,method_11,method_7,method_3|10.0,10.0,10.0,10.0|garfield high school teachers in seattle washington boycott measures of academic progress map test 20122013 |united states|human rights|change|yes|no|no|no
+user_680|method_126,method_197,method_160,method_136|9.0,9.0,9.0,9.0|germans defend ruhr valley from french  and belgian invasion ruhrkampf 1923|germany|economic justice|defense|yes|no|yes|yes
+user_680|method_122,method_120,method_115,method_36|9.0,9.0,9.0,9.0|germans defend ruhr valley from french  and belgian invasion ruhrkampf 1923|germany|economic justice|defense|yes|no|yes|yes
+user_680|method_97,method_94,method_48,method_105|9.0,9.0,9.0,9.0|germans defend ruhr valley from french  and belgian invasion ruhrkampf 1923|germany|economic justice|defense|yes|no|yes|yes
+user_681|method_118,method_125,method_141,method_74|4.0,4.0,4.0,4.0|indians campaign for independence salt satyagraha 19301931|india|economic justice|change|yes|yes|yes|yes
+user_681|method_19,method_18,method_16,method_10|4.0,4.0,4.0,4.0|indians campaign for independence salt satyagraha 19301931|india|economic justice|change|yes|yes|yes|yes
+user_682|method_37,method_36,method_48,method_147|10.0,10.0,10.0,10.0|ukrainians overthrow dictatorship orange revolution 2004|ukraine|democracy|defense|yes|no|no|yes
+user_683|method_138,method_7,method_38,method_48|6.0,6.0,6.0,6.0|burmese citizens campaign for democracy 1988|burma|human rights|change|no|no|no|yes
+user_683|method_44,method_37,method_33,method_20|6.0,6.0,6.0,6.0|burmese citizens campaign for democracy 1988|burma|human rights|change|no|no|no|yes
+user_683|method_147,method_117,method_40,method_25|6.0,6.0,6.0,6.0|burmese citizens campaign for democracy 1988|burma|human rights|change|no|no|no|yes
+user_684|method_80,method_104,method_117,method_7|9.0,9.0,9.0,9.0|iranians overthrow the shah 197779|iran|democracy|change|yes|no|yes|no
+user_684|method_20,method_1,method_16,method_3|9.0,9.0,9.0,9.0|iranians overthrow the shah 197779|iran|democracy|change|yes|no|yes|no
+user_685|method_36,method_16,method_150,method_198|10.0,10.0,10.0,10.0|estonians campaign for independence the singing revolution 19871991|estonia|democracy|change|yes|no|yes|yes
+user_685|method_5,method_171,method_135,method_18|10.0,10.0,10.0,10.0|estonians campaign for independence the singing revolution 19871991|estonia|democracy|change|yes|no|yes|yes
+user_688|method_38,method_97,method_8,method_9|9.0,9.0,9.0,9.0|chileans overthrow pinochet regime 19831988|chile|democracy|change|no|no|yes|yes
+user_688|method_110,method_47,method_28,method_13|9.0,9.0,9.0,9.0|chileans overthrow pinochet regime 19831988|chile|democracy|change|no|no|yes|yes
+user_689|method_6,method_13,method_48,method_1|10.0,10.0,10.0,10.0|czechoslovakians campaign for democracy velvet revolution 1989|czechoslovakia|democracy|change|yes|no|no|yes
+user_69|method_10,method_50,method_8,method_3|7.5,7.5,7.5,7.5|university of virginia students and faculty campaign for living wage 19972000|united states|economic justice|change|yes|no|no|no
+user_691|method_47,method_37,method_20,method_13|10.0,10.0,10.0,10.0|african americans boycott buses for integration in montgomery alabama us 19551956|united states|democracy|change|yes|no|no|yes
+user_691|method_20,method_13,method_9,method_71|10.0,10.0,10.0,10.0|african americans boycott buses for integration in montgomery alabama us 19551956|united states|democracy|change|yes|no|no|yes
+user_692|method_97,method_51,method_16,method_48|3.5,3.5,3.5,3.5|suburban philadelphia pa commuter rail line workers strike for contracts 1983|united states|economic justice|change|no|no|no|no
+user_693|method_16,method_38,method_47,method_48|3.0,3.0,3.0,3.0|us textile workers strike against wage cuts passaic nj 19261927|united states|economic justice|change|yes|no|no|yes
+user_696|method_8,method_4,method_6,method_2|6.0,6.0,6.0,6.0|harvard university community campaigns for divestment from apartheid south africa 19771989|united states|democracy|change|yes|no|no|no
+user_696|method_162,method_47,method_43,method_39|6.0,6.0,6.0,6.0|harvard university community campaigns for divestment from apartheid south africa 19771989|united states|democracy|change|yes|no|no|no
+user_696|method_43,method_39,method_29,method_24|6.0,6.0,6.0,6.0|harvard university community campaigns for divestment from apartheid south africa 19771989|united states|democracy|change|yes|no|no|no
+user_697|method_20,method_37,method_172,method_38|5.0,5.0,5.0,5.0|north carolina activists birth the ecojustice movement while fighting toxic waste 1982 |united states|human rights|defense|no|no|no|no
+user_700|method_34,method_25,method_19,method_18|10.0,10.0,10.0,10.0|lebanese campaign for democracy independence intifada or cedar revolution 2005|lebanon|democracy|change|yes|no|no|yes
+user_700|method_162,method_38,method_11,method_10|10.0,10.0,10.0,10.0|lebanese campaign for democracy independence intifada or cedar revolution 2005|lebanon|democracy|change|yes|no|no|yes
+user_701|method_24,method_18,method_8,method_36|10.0,10.0,10.0,10.0|croatians protest closure of radio station radio 101 1996|croatia|democracy|defense|yes|no|no|yes
+user_702|method_1,method_3,method_48,method_6|10.0,10.0,10.0,10.0|zambians campaign for independence 19441964|zambia|democracy|change|no|no|yes|yes
+user_703|method_173,method_172,method_8,method_7|2.0,2.0,2.0,2.0|antiroads campaign fights highway construction in england 19911995|england|environment|defense|no|no|yes|yes
+user_705|method_3,method_9,method_50,method_6|10.0,10.0,10.0,10.0|hampshire college students win divestment from apartheid south africa us 1977|united states|human rights|change|yes|yes|no|no
+user_708|method_19,method_37,method_38,method_7|9.0,9.0,9.0,9.0|african americans threaten march on washington 1941|united states|economic justice|change|no|no|no|no
+user_708|method_48,method_47,method_39,method_1|9.0,9.0,9.0,9.0|african americans threaten march on washington 1941|united states|economic justice|change|no|no|no|no
+user_713|method_71,method_162,method_7,method_8|4.0,4.0,4.0,4.0|orangeburg south carolina students sitin for us civil rights 1960|united states|human rights|change|yes|no|no|yes
+user_713|method_8,method_16,method_38,method_37|4.0,4.0,4.0,4.0|orangeburg south carolina students sitin for us civil rights 1960|united states|human rights|change|yes|no|no|yes
+user_715|method_1,method_3,method_38,method_47|10.0,10.0,10.0,10.0|malawians bring down 30year dictator 19921993|malawi|democracy|change|yes|no|yes|yes
+user_717|method_7,method_50,method_1,method_3|10.0,10.0,10.0,10.0|indians embrace trees chipko to stop logging activity 19711974|india|environment|defense|no|no|no|yes
+user_717|method_16,method_47,method_48,method_171|10.0,10.0,10.0,10.0|indians embrace trees chipko to stop logging activity 19711974|india|environment|defense|no|no|no|yes
+user_720|method_173,method_178,method_7,method_8|10.0,10.0,10.0,10.0|peace activists pledge resistance against us military intervention in central america 19841990|united states|democracy|change|yes|no|no|yes
+user_721|method_38,method_47,method_121,method_159|8.0,8.0,8.0,8.0|bukidnon residents protest logging activity in the philippines 19871989|philippines|environment|change|no|no|no|yes
+user_721|method_8,method_37,method_20,method_16|8.0,8.0,8.0,8.0|bukidnon residents protest logging activity in the philippines 19871989|philippines|environment|change|no|no|no|yes
+user_724|method_132,method_150,method_124,method_16|9.0,9.0,9.0,9.0|andorrans seek universal male suffrage 1933|andorra|democracy|change|yes|no|yes|no
+user_726|method_37,method_193,method_160,method_175|9.0,9.0,9.0,9.0|industrial workers of the world campaigns for free speech in spokane washington usa 19081910|united states|democracy|change|no|yes|no|yes
+user_727|method_104,method_97,method_45,method_137|10.0,10.0,10.0,10.0|tunisians overthrow dictator and demand political and economic reform jasmine revolution 20102011|tunisia|democracy|change|no|no|yes|yes
+user_729|method_37,method_58,method_170,method_20|10.0,10.0,10.0,10.0|milanese catholics and bishop ambrose defend their basilica 385386 ce|italy|human rights|defense|yes|no|no|no
+user_733|method_162,method_2,method_5,method_9|10.0,10.0,10.0,10.0|black university of washington students campaign for inclusion united states 1968|united states|human rights|change|yes|no|no|no
+user_734|method_179,method_138,method_38,method_8|7.0,7.0,7.0,7.0|indians force cocacola bottling facility in plachimada to shut down 20012006|india|environment|change|yes|yes|no|yes
+user_734|method_38,method_8,method_48,method_47|7.0,7.0,7.0,7.0|indians force cocacola bottling facility in plachimada to shut down 20012006|india|environment|change|yes|yes|no|yes
+user_734|method_48,method_47,method_1,method_2|7.0,7.0,7.0,7.0|indians force cocacola bottling facility in plachimada to shut down 20012006|india|environment|change|yes|yes|no|yes
+user_734|method_1,method_2,method_3,method_16|7.0,7.0,7.0,7.0|indians force cocacola bottling facility in plachimada to shut down 20012006|india|environment|change|yes|yes|no|yes
+user_737|method_50,method_38,method_171,method_168|8.0,8.0,8.0,8.0|puerto ricans force united states navy out of vieques island 19992003|puerto rico|environment|change|yes|no|no|yes
+user_737|method_137,method_47,method_42,method_34|8.0,8.0,8.0,8.0|puerto ricans force united states navy out of vieques island 19992003|puerto rico|environment|change|yes|no|no|yes
+user_737|method_19,method_13,method_21,method_126|8.0,8.0,8.0,8.0|puerto ricans force united states navy out of vieques island 19992003|puerto rico|environment|change|yes|no|no|yes
+user_738|method_137,method_170,method_171,method_16|9.0,9.0,9.0,9.0|puerto ricans expel united states navy from culebra island 19701974|puerto rico|national-ethnic identity|change|yes|yes|yes|yes
+user_743|method_173,method_50,method_1,method_48|6.0,6.0,6.0,6.0|abalone alliance campaigns against diablo canyon nuclear plant california 19761984|united states|environment|defense|yes|no|no|yes
+user_743|method_172,method_39,method_177,method_7|6.0,6.0,6.0,6.0|abalone alliance campaigns against diablo canyon nuclear plant california 19761984|united states|environment|defense|yes|no|no|yes
+user_744|method_10,method_1,method_5,method_47|10.0,10.0,10.0,10.0|indian peasants in champaran campaign for rights 1917|india|economic justice|change|yes|no|no|yes
+user_745|method_180,method_10,method_1,method_3|4.0,4.0,4.0,4.0|indians campaign for full independence quit india campaign 19421943|india|democracy|change|no|no|yes|yes
+user_745|method_171,method_9,method_20,method_29|4.0,4.0,4.0,4.0|indians campaign for full independence quit india campaign 19421943|india|democracy|change|no|no|yes|yes
+user_749|method_9,method_177,method_178,method_37|7.0,7.0,7.0,7.0|maryland residents resist highway construction intercounty connectormd 200 19802011|united states|environment|defense|yes|no|no|no
+user_75|method_6,method_47,method_50,method_172|9.0,9.0,9.0,9.0|guatemalan protests against monsanto law  2014|guatemala|environment|defense|no|no|no|no
+user_752|method_177,method_6,method_5,method_2|10.0,10.0,10.0,10.0|love canal residents campaign for clean environment new york usa 19781980|united states|environment|change|yes|no|no|no
+user_752|method_172,method_38,method_43,method_23|10.0,10.0,10.0,10.0|love canal residents campaign for clean environment new york usa 19781980|united states|environment|change|yes|no|no|no
+user_755|method_24,method_11,method_10,method_3|10.0,10.0,10.0,10.0|british citizens protest apartheid south african sports tours stop the seventy tour 19691970|united kingdom|democracy|defense|yes|no|no|no
+user_760|method_8,method_7,method_5,method_18|10.0,10.0,10.0,10.0|greenpeace campaigns against dumping the brent spar oil rig 1995|international|economic justice|defense|yes|no|yes|no
+user_760|method_5,method_18,method_173,method_196|10.0,10.0,10.0,10.0|greenpeace campaigns against dumping the brent spar oil rig 1995|international|economic justice|defense|yes|no|yes|no
+user_760|method_9,method_47,method_71,method_77|10.0,10.0,10.0,10.0|greenpeace campaigns against dumping the brent spar oil rig 1995|international|economic justice|defense|yes|no|yes|no
+user_762|method_3,method_2,method_173,method_1|6.0,6.0,6.0,6.0|ecuadorian indigenous peoples resist oil drilling in the amazon 19891994|ecuador|economic justice|defense|no|no|no|no
+user_766|method_30,method_13,method_16,method_9|4.0,4.0,4.0,4.0|philadelphian african american students campaign for greater rights 1967|united states|democracy|change|yes|no|yes|yes
+user_769|method_161,method_145,method_172,method_32|5.0,5.0,5.0,5.0|chinese villagers seek reparations for effects of dahe dam 19801990|china|economic justice|defense|yes|no|yes|no
+user_770|method_180,method_4,method_3,method_121|2.0,2.0,2.0,2.0|us homestead steel workers strike to protect unions and wages 1892|united states|economic justice|defense|no|yes|yes|yes
+user_771|method_50,method_168,method_172,method_3|10.0,10.0,10.0,10.0|canadian activists demand transparency in ftaa negotiations 20002001|canada|democracy|defense|yes|no|no|no
+user_772|method_4,method_9,method_10,method_11|3.0,3.0,3.0,3.0|icelanders protest karahnjukar hydropower project 20002006|iceland|environment|defense|yes|yes|no|yes
+user_772|method_10,method_11,method_172,method_171|3.0,3.0,3.0,3.0|icelanders protest karahnjukar hydropower project 20002006|iceland|environment|defense|yes|yes|no|yes
+user_772|method_48,method_1,method_159,method_173|3.0,3.0,3.0,3.0|icelanders protest karahnjukar hydropower project 20002006|iceland|environment|defense|yes|yes|no|yes
+user_772|method_159,method_173,method_47,method_89|3.0,3.0,3.0,3.0|icelanders protest karahnjukar hydropower project 20002006|iceland|environment|defense|yes|yes|no|yes
+user_778|method_16,method_7,method_8,method_9|3.0,3.0,3.0,3.0|thai red shirts protest against thai government 2010|thailand|democracy|change|no|no|yes|yes
+user_778|method_8,method_9,method_11,method_20|3.0,3.0,3.0,3.0|thai red shirts protest against thai government 2010|thailand|democracy|change|no|no|yes|yes
+user_782|method_15,method_38,method_45,method_47|10.0,10.0,10.0,10.0|syrian citizens general strike against france 1936|syria|democracy|change|yes|no|yes|yes
+user_783|method_18,method_105,method_182,method_39|10.0,10.0,10.0,10.0|swiss railway workers strike against job cuts 2008|switzerland|economic justice|defense|yes|no|no|no
+user_783|method_1,method_6,method_47,method_16|10.0,10.0,10.0,10.0|swiss railway workers strike against job cuts 2008|switzerland|economic justice|defense|yes|no|no|no
+user_784|method_5,method_13,method_9,method_117|8.0,8.0,8.0,8.0|sudanese students workers bring down numeiri dictatorship 1985|sudan|democracy|change|no|yes|yes|yes
+user_786|method_6,method_4,method_3,method_2|9.0,9.0,9.0,9.0|south koreans win mass campaign for democracy 198687|south korea|democracy|change|yes|no|yes|yes
+user_788|method_62,method_48,method_97,method_65|9.0,9.0,9.0,9.0|sierra leone citizens defend democracy 19971998|sierra leone|democracy|defense|no|no|yes|yes
+user_788|method_97,method_65,method_10,method_117|9.0,9.0,9.0,9.0|sierra leone citizens defend democracy 19971998|sierra leone|democracy|defense|no|no|yes|yes
+user_788|method_10,method_117,method_121,method_3|9.0,9.0,9.0,9.0|sierra leone citizens defend democracy 19971998|sierra leone|democracy|defense|no|no|yes|yes
+user_789|method_7,method_170,method_47,method_36|4.0,4.0,4.0,4.0|scottish antinuclear power campaign in torness 1977|scotland|environment|defense|no|no|no|yes
+user_790|method_104,method_8,method_6,method_18|6.0,6.0,6.0,6.0|romanians general strike against austerity measures 2009|romania|economic justice|defense|no|no|no|no
+user_791|method_11,method_62,method_47,method_10|9.0,9.0,9.0,9.0|university of puerto rico students strike to resist budget cuts 2010|puerto rico|economic justice|defense|no|yes|yes|yes
+user_793|method_159,method_45,method_8,method_16|9.0,9.0,9.0,9.0|sindh hari committee struggles for land rights 2009|pakistan|economic justice|change|yes|no|no|yes
+user_797|method_90,method_47,method_38,method_18|8.0,8.0,8.0,8.0|nepalese general strike to protest monarchic rule 2006|nepal|democracy|change|no|no|no|yes
+user_798|method_195,method_2,method_48,method_3|6.0,6.0,6.0,6.0|pennsylvanians campaign against nuclearrelated delaware river pump  dump the pump usa 19821988|united states|environment|defense|yes|no|no|yes
+user_798|method_48,method_3,method_4,method_1|6.0,6.0,6.0,6.0|pennsylvanians campaign against nuclearrelated delaware river pump  dump the pump usa 19821988|united states|environment|defense|yes|no|no|yes
+user_799|method_13,method_5,method_3,method_117|7.0,7.0,7.0,7.0|moroccans general strike for higher wages 1990|morocco|economic justice|change|yes|no|yes|yes
+user_800|method_1,method_47,method_7,method_34|6.0,6.0,6.0,6.0|us protesters campaign against death penalty in philadelphia 2000|united states|democracy|change|no|no|yes|yes
+user_800|method_7,method_34,method_38,method_172|6.0,6.0,6.0,6.0|us protesters campaign against death penalty in philadelphia 2000|united states|democracy|change|no|no|yes|yes
+user_801|method_38,method_48,method_104,method_172|4.0,4.0,4.0,4.0|oaxacan teachers strike against governor 2006|mexico|democracy|change|yes|no|yes|yes
+user_801|method_26,method_8,method_173,method_97|4.0,4.0,4.0,4.0|oaxacan teachers strike against governor 2006|mexico|democracy|change|yes|no|yes|yes
+user_801|method_26,method_8,method_173,method_97|4.0,4.0,4.0,4.0|oaxacan teachers strike against governor 2006|mexico|democracy|change|yes|no|yes|yes
+user_805|method_22,method_48,method_171,method_199|10.0,10.0,10.0,10.0|liberian women act to end civil war 2003|liberia|democracy|change|yes|no|no|no
+user_806|method_122,method_1,method_120,method_3|6.0,6.0,6.0,6.0|kosovo albanians resist serbian rule 19901998|kosovo|democracy|change|yes|no|yes|yes
+user_806|method_139,method_39,method_38,method_47|6.0,6.0,6.0,6.0|kosovo albanians resist serbian rule 19901998|kosovo|democracy|change|yes|no|yes|yes
+user_807|method_30,method_18,method_48,method_170|10.0,10.0,10.0,10.0|kazakhs stop nuclear testing nevadasemipalatinsk antinuclear campaign 19891991|kazakhstan|environment|defense|yes|no|no|yes
+user_808|method_18,method_38,method_97,method_162|2.0,2.0,2.0,2.0|jamaican workers protest sale of air jamaica to caribbean airlines 2010|jamaica|economic justice|defense|no|no|no|no
+user_808|method_97,method_162,method_8,method_2|2.0,2.0,2.0,2.0|jamaican workers protest sale of air jamaica to caribbean airlines 2010|jamaica|economic justice|defense|no|no|no|no
+user_808|method_8,method_2,method_5,method_7|2.0,2.0,2.0,2.0|jamaican workers protest sale of air jamaica to caribbean airlines 2010|jamaica|economic justice|defense|no|no|no|no
+user_810|method_45,method_1,method_5,method_3|4.0,4.0,4.0,4.0|irish workers general strike in dublin 1913|ireland|economic justice|change|yes|yes|yes|yes
+user_810|method_120,method_117,method_106,method_80|4.0,4.0,4.0,4.0|irish workers general strike in dublin 1913|ireland|economic justice|change|yes|yes|yes|yes
+user_812|method_36,method_26,method_48,method_47|10.0,10.0,10.0,10.0|indonesians overthrow president suharto 1998|indonesia|democracy|change|yes|no|yes|yes
+user_813|method_89,method_103,method_198,method_16|10.0,10.0,10.0,10.0|german citizens defend democracy against kapp putsch 1920|germany|democracy|defense|yes|yes|yes|yes
+user_813|method_198,method_16,method_117,method_119|10.0,10.0,10.0,10.0|german citizens defend democracy against kapp putsch 1920|germany|democracy|defense|yes|yes|yes|yes
+user_813|method_117,method_119,method_143,method_147|10.0,10.0,10.0,10.0|german citizens defend democracy against kapp putsch 1920|germany|democracy|defense|yes|yes|yes|yes
+user_813|method_169,method_32,method_144,method_135|10.0,10.0,10.0,10.0|german citizens defend democracy against kapp putsch 1920|germany|democracy|defense|yes|yes|yes|yes
+user_815|method_19,method_9,method_6,method_34|8.0,8.0,8.0,8.0|environmentalist groups prevent the construction of danube river dam hungary 19841989|hungary|environment|defense|no|no|no|no
+user_817|method_145,method_131,method_48,method_117|6.0,6.0,6.0,6.0|guinean citizens general strike for democracy 2007|guinea|democracy|change|yes|no|yes|yes
+user_817|method_48,method_117,method_47,method_38|6.0,6.0,6.0,6.0|guinean citizens general strike for democracy 2007|guinea|democracy|change|yes|no|yes|yes
+user_818|method_179,method_173,method_122,method_97|7.0,7.0,7.0,7.0|grenadians seek greater political participation the new jewel movement 19731979|grenada|democracy|change|no|no|yes|no
+user_819|method_5,method_47,method_106,method_4|4.0,4.0,4.0,4.0|greek truck drivers strike to protect the status quo 2010|greece|economic justice|defense|no|no|yes|yes
+user_820|method_8,method_18,method_20,method_47|8.0,8.0,8.0,8.0|ghanaians campaign for independence from british rule 19491951|ghana|democracy|change|yes|no|yes|yes
+user_820|method_20,method_47,method_13,method_36|8.0,8.0,8.0,8.0|ghanaians campaign for independence from british rule 19491951|ghana|democracy|change|yes|no|yes|yes
+user_824|method_7,method_10,method_11,method_50|10.0,10.0,10.0,10.0|turkish feminist and lgbt groups campaign to reform the penal code 20022004|turkey|democracy|change|no|yes|no|no
+user_825|method_16,method_13,method_1,method_10|9.0,9.0,9.0,9.0|indians in south africa wage satyagraha for their rights 19061914|south africa|human rights|change|yes|no|yes|yes
+user_825|method_9,method_139,method_175,method_195|9.0,9.0,9.0,9.0|indians in south africa wage satyagraha for their rights 19061914|south africa|human rights|change|yes|no|yes|yes
+user_825|method_175,method_195,method_174,method_179|9.0,9.0,9.0,9.0|indians in south africa wage satyagraha for their rights 19061914|south africa|human rights|change|yes|no|yes|yes
+user_827|method_13,method_38,method_47,method_50|9.0,9.0,9.0,9.0|uwa people block occidental petroleum colombia 19952001|colombia|environment|defense|no|no|no|yes
+user_828|method_33,method_173,method_126,method_179|3.0,3.0,3.0,3.0|maori resistance to british land seizure at parihaka new zealand 187981|new zealand|national-ethnic identity|defense|yes|no|no|yes
+user_829|method_3,method_5,method_7,method_8|10.0,10.0,10.0,10.0|egyptians bring down dictatorship of hosni mubarak 2011|egypt|democracy|change|no|no|yes|yes
+user_829|method_7,method_8,method_9,method_18|10.0,10.0,10.0,10.0|egyptians bring down dictatorship of hosni mubarak 2011|egypt|democracy|change|no|no|yes|yes
+user_831|method_34,method_37,method_121,method_171|10.0,10.0,10.0,10.0|madagascar general strike in support of marc ravolomanana 2002|madagascar|democracy|change|yes|no|yes|yes
+user_832|method_110,method_16,method_8,method_3|9.0,9.0,9.0,9.0|faculty win new industrial agreement with the college of the bahamas 20102011|bahamas|economic justice|change|yes|no|no|no
+user_832|method_162,method_104,method_50,method_47|9.0,9.0,9.0,9.0|faculty win new industrial agreement with the college of the bahamas 20102011|bahamas|economic justice|change|yes|no|no|no
+user_834|method_8,method_26,method_33,method_3|6.0,6.0,6.0,6.0|acehnese struggle for selfdetermination 19982001|indonesia|democracy|change|no|no|no|yes
+user_837|method_16,method_8,method_5,method_3|10.0,10.0,10.0,10.0|southern africans block arms shipment for zimbabwe 2008|south africa|democracy|defense|yes|no|no|no
+user_838|method_3,method_51,method_13,method_97|3.0,3.0,3.0,3.0|cape verde telecom employees strike for higher wages 2010|cape verde|economic justice|change|no|no|no|no
+user_839|method_60,method_34,method_173,method_4|10.0,10.0,10.0,10.0|filipinos campaign to overthrow dictator people power 19831986|philippines|democracy|change|no|no|no|no
+user_843|method_9,method_8,method_6,method_5|4.0,4.0,4.0,4.0|tulane university cafeteria workers strike for right to form union 2010|united states|economic justice|change|no|no|no|no
+user_844|method_173,method_47,method_7,method_51|4.0,4.0,4.0,4.0|nuxalk people obstruct logging of itsa oldgrowth forest 19951998|canada|environment|defense|no|yes|yes|yes
+user_845|method_47,method_38,method_18,method_7|5.5,5.5,5.5,5.5|syrian women block highway win back captive men 2011|syria|democracy|defense|no|no|no|yes
+user_85|method_64,method_16,method_38,method_29|6.0,6.0,6.0,6.0|nepalese maoists strike for integration of maoist soldiers into nepals security forces 2009|nepal|democracy|change|no|yes|yes|yes
+user_851|method_38,method_48,method_73,method_1|6.0,6.0,6.0,6.0|chicago activists challenge segregation chicago freedom movement usa 19651967|united states|democracy|change|no|no|yes|yes
+user_853|method_144,method_17,method_16,method_177|8.0,8.0,8.0,8.0|philadelphians campaign for a casinofree city 20062010|united states|democracy|defense|no|no|no|no
+user_855|method_121,method_10,method_3,method_9|4.0,4.0,4.0,4.0|cherokee campaign against displacement 18271838|united states|democracy|defense|yes|no|no|yes
+user_858|method_162,method_38,method_8,method_7|8.0,8.0,8.0,8.0|welsh students campaign against tuition hikes 2010|wales|economic justice|defense|no|no|no|no
+user_861|method_177,method_34,method_10,method_11|9.0,9.0,9.0,9.0|us activists campaign to support the east timorese independence movement 19911999|united states|democracy|change|yes|yes|yes|yes
+user_862|method_48,method_16,method_1,method_78|9.0,9.0,9.0,9.0|canadian refinery workers and labor unions boycott petrocanada 2007|canada|economic justice|change|no|yes|no|no
+user_864|method_23,method_32,method_38,method_47|10.0,10.0,10.0,10.0|colombians overthrow dictator 1957|colombia|democracy|change|yes|yes|yes|yes
+user_864|method_3,method_2,method_104,method_62|10.0,10.0,10.0,10.0|colombians overthrow dictator 1957|colombia|democracy|change|yes|yes|yes|yes
+user_867|method_171,method_9,method_124,method_195|3.5,3.5,3.5,3.5|pakistanis in sindhi struggle for democracy 19811984 |pakistan|democracy|change|no|no|yes|yes
+user_875|method_1,method_2,method_7,method_47|10.0,10.0,10.0,10.0|allegany county resists nuclear dumping 19891990|united states|environment|defense|no|no|no|no
+user_875|method_199,method_6,method_34,method_38|10.0,10.0,10.0,10.0|allegany county resists nuclear dumping 19891990|united states|environment|defense|no|no|no|no
+user_876|method_15,method_8,method_7,method_3|4.0,4.0,4.0,4.0|bosnian croatian and macedonian parents protest conscription of sons and civil war in yugoslavia 1991|bosnia and herzegovina|peace|change|yes|yes|no|no
+user_877|method_8,method_16,method_13,method_97|4.0,4.0,4.0,4.0|japanese workers on us military bases strike against salary cuts 2007|japan|economic justice|defense|no|no|no|no
+user_880|method_10,method_183,method_173,method_48|9.0,9.0,9.0,9.0|internally displaced peruvians campaign for land villa el salvador land invasion 1971|peru|economic justice|change|no|no|no|yes
+user_880|method_18,method_28,method_13,method_1|9.0,9.0,9.0,9.0|internally displaced peruvians campaign for land villa el salvador land invasion 1971|peru|economic justice|change|no|no|no|yes
+user_880|method_18,method_28,method_13,method_1|9.0,9.0,9.0,9.0|internally displaced peruvians campaign for land villa el salvador land invasion 1971|peru|economic justice|change|no|no|no|yes
+user_881|method_8,method_36,method_1,method_9|10.0,10.0,10.0,10.0|columbia university students win divestment from apartheid south africa united states 1985|united states|democracy|change|yes|no|no|no
+user_881|method_37,method_6,method_62,method_13|10.0,10.0,10.0,10.0|columbia university students win divestment from apartheid south africa united states 1985|united states|democracy|change|yes|no|no|no
+user_882|method_121,method_58,method_61,method_122|5.0,5.0,5.0,5.0|paraguayan indigenous peoples resist the stroessner regime 19691989|paraguay|democracy|change|yes|yes|no|yes
+user_883|method_11,method_4,method_2,method_1|8.0,8.0,8.0,8.0|israeli youth refuse compulsory military service 20082009|israel|peace|change|no|no|no|no
+user_884|method_15,method_10,method_3,method_2|10.0,10.0,10.0,10.0|university of michigan students campaign against sweatshops 1999|united states|economic justice|change|yes|no|no|no
+user_886|method_18,method_8,method_7,method_2|5.0,5.0,5.0,5.0|venezuelan students protest shutdown of radio caracas television 2007|venezuela|democracy|defense|yes|yes|yes|yes
+user_887|method_48,method_45,method_38,method_34|7.0,7.0,7.0,7.0|south vietnamese buddhists initiate fall of dictator diem 1963|vietnam|democracy|change|no|no|yes|yes
+user_887|method_38,method_34,method_32,method_47|7.0,7.0,7.0,7.0|south vietnamese buddhists initiate fall of dictator diem 1963|vietnam|democracy|change|no|no|yes|yes
+user_888|method_51,method_106,method_117,method_161|4.0,4.0,4.0,4.0|canadian workers wage general strike in winnipeg canada 1919|canada|economic justice|change|no|yes|yes|yes
+user_888|method_142,method_47,method_38,method_8|4.0,4.0,4.0,4.0|canadian workers wage general strike in winnipeg canada 1919|canada|economic justice|change|no|yes|yes|yes
+user_889|method_162,method_47,method_22,method_48|3.5,3.5,3.5,3.5|new york university students campaign for transparency 20072009|united states|democracy|change|yes|no|yes|yes
+user_89|method_50,method_3,method_5,method_8|10.0,10.0,10.0,10.0|greek campaign to stop construction of coal plants 20082010 |greece|environment|defense|no|no|no|no
+user_891|method_7,method_5,method_1,method_8|8.0,8.0,8.0,8.0|algerian citizens nonviolently intervene to prevent civil war 1962|algeria|peace|third-party nonviolent intervention|yes|no|no|no
+user_894|method_47,method_1,method_15,method_18|10.0,10.0,10.0,10.0|salvadoran health professionals prevent privatization of health care 20022003|el salvador|economic justice|defense|no|no|no|yes
+user_899|method_163,method_38,method_97,method_13|8.0,8.0,8.0,8.0|indian workers double wages at construction firm in anguilla 2007|anguilla|economic justice|change|yes|no|no|no
+user_9|method_162,method_37,method_47,method_200|8.0,8.0,8.0,8.0|new york university students sitin for nyu to change its labor code of conduct end deathtraps campaign 20132014|united states|human rights|change|no|no|no|no
+user_901|method_18,method_8,method_7,method_2|5.0,5.0,5.0,5.0|venezuelan students protest shutdown of radio caracas television 2007|venezuela|democracy|defense|yes|yes|yes|yes
+user_902|method_8,method_38,method_5,method_1|7.0,7.0,7.0,7.0|south vietnamese buddhists initiate fall of dictator diem 1963|vietnam|democracy|change|no|no|yes|yes
+user_902|method_5,method_1,method_13,method_47|7.0,7.0,7.0,7.0|south vietnamese buddhists initiate fall of dictator diem 1963|vietnam|democracy|change|no|no|yes|yes
+user_903|method_161,method_117,method_106,method_51|4.0,4.0,4.0,4.0|canadian workers wage general strike in winnipeg canada 1919|canada|economic justice|change|no|yes|yes|yes
+user_903|method_10,method_182,method_180,method_5|4.0,4.0,4.0,4.0|canadian workers wage general strike in winnipeg canada 1919|canada|economic justice|change|no|yes|yes|yes
+user_905|method_159,method_2,method_13,method_34|9.0,9.0,9.0,9.0|three ohio deathsentenced prisoners hunger strike for rights 2011|united states|human rights|change|yes|no|no|no
+user_913|method_32,method_97,method_34,method_24|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_914|method_9,method_1,method_22,method_47|3.5,3.5,3.5,3.5|new york university students campaign for transparency 20072009|united states|democracy|change|yes|no|yes|yes
+user_915|method_97,method_105,method_106,method_16|8.0,8.0,8.0,8.0|new caledonian workers union defends fired comrades 2005|new caledonia|economic justice|defense|no|yes|yes|no
+user_918|method_38,method_9,method_97,method_47|7.0,7.0,7.0,7.0|australians campaign against nuclear power and uranium mining 19741988|australia|environment|change|yes|no|no|no
+user_918|method_6,method_19,method_7,method_18|7.0,7.0,7.0,7.0|australians campaign against nuclear power and uranium mining 19741988|australia|environment|change|yes|no|no|no
+user_920|method_6,method_7,method_8,method_5|8.0,8.0,8.0,8.0|gibraltarians campaign for sovereignty 20022004|gibraltar|democracy|defense|no|no|no|no
+user_920|method_8,method_5,method_9,method_47|8.0,8.0,8.0,8.0|gibraltarians campaign for sovereignty 20022004|gibraltar|democracy|defense|no|no|no|no
+user_925|method_8,method_10,method_11,method_14|10.0,10.0,10.0,10.0|campaign for the liberation of the suchitoto 13 prisoners in el salvador 200708|el salvador|democracy|defense|yes|no|no|yes
+user_925|method_34,method_37,method_38,method_2|10.0,10.0,10.0,10.0|campaign for the liberation of the suchitoto 13 prisoners in el salvador 200708|el salvador|democracy|defense|yes|no|no|yes
+user_926|method_89,method_159,method_47,method_15|7.0,7.0,7.0,7.0|bhutanese refugees hunger strike for repatriation 2003|bhutan|human rights|defense|yes|no|no|no
+user_928|method_141,method_172,method_92,method_63|3.0,3.0,3.0,3.0|naga campaign for leader to return to the manipur region 2010|india|democracy|change|no|yes|yes|yes
+user_928|method_48,method_47,method_1,method_34|3.0,3.0,3.0,3.0|naga campaign for leader to return to the manipur region 2010|india|democracy|change|no|yes|yes|yes
+user_93|method_36,method_71,method_37,method_162|5.0,5.0,5.0,5.0|romanian environmentalists protest plan to mine gold using cyanide in rosia montana heritage area 20022013|romania|environment|change|yes|no|no|no
+user_931|method_3,method_5,method_48,method_71|4.0,4.0,4.0,4.0|cayman islanders protest dolphinariums 200608|cayman islands|environment|defense|yes|no|no|no
+user_938|method_13,method_8,method_1,method_47|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_938|method_1,method_47,method_38,method_37|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_939|method_162,method_47,method_22,method_1|3.5,3.5,3.5,3.5|new york university students campaign for transparency 20072009|united states|democracy|change|yes|no|yes|yes
+user_939|method_22,method_1,method_9,method_5|3.5,3.5,3.5,3.5|new york university students campaign for transparency 20072009|united states|democracy|change|yes|no|yes|yes
+user_941|method_8,method_47,method_117,method_33|8.0,8.0,8.0,8.0|algerian citizens nonviolently intervene to prevent civil war 1962|algeria|peace|third-party nonviolent intervention|yes|no|no|no
+user_943|method_38,method_97,method_47,method_37|7.0,7.0,7.0,7.0|australians campaign against nuclear power and uranium mining 19741988|australia|environment|change|yes|no|no|no
+user_943|method_47,method_37,method_19,method_18|7.0,7.0,7.0,7.0|australians campaign against nuclear power and uranium mining 19741988|australia|environment|change|yes|no|no|no
+user_943|method_19,method_18,method_15,method_9|7.0,7.0,7.0,7.0|australians campaign against nuclear power and uranium mining 19741988|australia|environment|change|yes|no|no|no
+user_945|method_7,method_8,method_9,method_47|8.0,8.0,8.0,8.0|gibraltarians campaign for sovereignty 20022004|gibraltar|democracy|defense|no|no|no|no
+user_947|method_48,method_1,method_5,method_11|10.0,10.0,10.0,10.0|french citizens and soldiers nonviolently defend against algerian putsch 1961|france|democracy|defense|yes|no|no|yes
+user_947|method_118,method_96,method_6,method_122|10.0,10.0,10.0,10.0|french citizens and soldiers nonviolently defend against algerian putsch 1961|france|democracy|defense|yes|no|no|yes
+user_949|method_162,method_159,method_1,method_13|8.0,8.0,8.0,8.0|indian workers double wages at construction firm in anguilla 2007|anguilla|economic justice|change|yes|no|no|no
+user_950|method_38,method_34,method_37,method_7|10.0,10.0,10.0,10.0|campaign for the liberation of the suchitoto 13 prisoners in el salvador 200708|el salvador|democracy|defense|yes|no|no|yes
+user_953|method_3,method_124,method_1,method_48|3.0,3.0,3.0,3.0|naga campaign for leader to return to the manipur region 2010|india|democracy|change|no|yes|yes|yes
+user_953|method_172,method_141,method_34,method_47|3.0,3.0,3.0,3.0|naga campaign for leader to return to the manipur region 2010|india|democracy|change|no|yes|yes|yes
+user_963|method_8,method_6,method_7,method_37|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_968|method_97,method_47,method_37,method_19|7.0,7.0,7.0,7.0|australians campaign against nuclear power and uranium mining 19741988|australia|environment|change|yes|no|no|no
+user_97|method_200,method_40,method_38,method_34|10.0,10.0,10.0,10.0|earth quaker action team campaigns against pnc bank for financing mountaintop removal coal mining 20102015|united states|environment|defense|no|no|no|yes
+user_974|method_1,method_13,method_97,method_38|8.0,8.0,8.0,8.0|indian workers double wages at construction firm in anguilla 2007|anguilla|economic justice|change|yes|no|no|no
+user_98|method_104,method_110,method_6,method_37|2.5,2.5,2.5,2.5|swazi teachers strike for economic justice 2012 |swaziland|economic justice|change|no|no|yes|yes
+user_985|method_34,method_8,method_3,method_1|9.0,9.0,9.0,9.0|maltese students defend stipends from cuts 1997|malta|economic justice|defense|yes|no|no|yes
+user_988|method_7,method_37,method_38,method_47|10.0,10.0,10.0,10.0|bulgarians campaign for democratic reforms and multiparty rule 198990|bulgaria|democracy|change|no|no|no|no
+user_989|method_1,method_22,method_47,method_162|3.5,3.5,3.5,3.5|new york university students campaign for transparency 20072009|united states|democracy|change|yes|no|yes|yes
+user_990|method_16,method_97,method_105,method_106|8.0,8.0,8.0,8.0|new caledonian workers union defends fired comrades 2005|new caledonia|economic justice|defense|no|yes|yes|no
+user_991|method_5,method_7,method_8,method_47|8.0,8.0,8.0,8.0|algerian citizens nonviolently intervene to prevent civil war 1962|algeria|peace|third-party nonviolent intervention|yes|no|no|no
+user_998|method_116,method_104,method_97,method_48|6.0,6.0,6.0,6.0|the force ouvrière labor union strikes for economic justice and education wallis and futuna 1994|wallis and futuna|economic justice|change|no|yes|yes|no
+user_999|method_159,method_1,method_13,method_97|8.0,8.0,8.0,8.0|indian workers double wages at construction firm in anguilla 2007|anguilla|economic justice|change|yes|no|no|no
